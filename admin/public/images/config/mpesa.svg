@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#E11D48"/>
+  <text x="64" y="66" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="22" font-weight="900" text-anchor="middle" fill="#FFFFFF">M-PESA</text>
+  <path d="M 34 84 L 94 84" stroke="#22C55E" stroke-width="6" stroke-linecap="round"/>
+</svg>
