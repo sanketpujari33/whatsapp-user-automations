@@ -1,0 +1,8 @@
+.form-radio {
+  @apply relative inline-block w-5 h-5 cursor-pointer appearance-none rounded-full border border-gray-300 transition-all duration-200 ease-out
+         before:absolute before:inset-1 before:rounded-full before:scale-0 before:bg-red-600 before:transition-transform before:duration-200 before:ease-out
+         checked:before:scale-100
+         hover:shadow-lg
+         focus:outline-none;
+  --tw-thumb: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3.5'/%3e%3c/svg%3e");
+}

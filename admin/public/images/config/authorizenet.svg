@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#1B365D"/>
+  <text x="64" y="74" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="36" font-weight="900" text-anchor="middle" fill="#00A3E0">A</text>
+  <text x="64" y="102" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" text-anchor="middle" fill="#FFFFFF">AUTHORIZE</text>
+</svg>

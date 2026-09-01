@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.log
+npm-debug.log*
+.git
+.gitignore
+.env.local
+.env.development
+.env.test
+.env.production
+.vscode
+.idea
+.DS_Store

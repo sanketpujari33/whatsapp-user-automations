@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#163300"/>
+  <!-- Wise Flag/Fast Arrow logo in lime green -->
+  <path d="M 38 40 L 74 40 L 50 88 L 68 88 L 92 40 L 56 40 L 68 64 Z" fill="#9FE870"/>
+</svg>

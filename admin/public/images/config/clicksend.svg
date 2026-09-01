@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#0EA5E9"/>
+  <text x="64" y="66" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="16" font-weight="900" text-anchor="middle" fill="#FFFFFF">CLICK</text>
+  <text x="64" y="90" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="16" font-weight="900" text-anchor="middle" fill="#E0F2FE">SEND</text>
+</svg>
