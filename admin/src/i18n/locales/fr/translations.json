@@ -1,0 +1,887 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "Dashboard",
+      "home": "Home"
+    },
+    "settings": {
+      "settings": "Settings",
+      "general": "General",
+      "appearance": "Appearance",
+      "title": "Settings"
+    },
+    "astroAdmin": {
+      "dashboard": "Dashboard",
+      "customers": "Customers",
+      "astrologers": "Astrologers",
+      "content": "Content",
+      "aiCounsellor": "AI Counsellor",
+      "astroshop": "Astroshop",
+      "horoscope": "Horoscope",
+      "pujas": "Pujas",
+      "courses": "Courses",
+      "earning": "Earnings",
+      "reports": "Reports",
+      "support": "Support",
+      "generalSettings": "General Settings",
+      "masterSettings": "Master Settings",
+      "offers": "Offers",
+      "profitLoss": "Profit / Loss",
+      "promoter": "Promoter",
+      "receiveFund": "Receive Fund",
+      "dataMonitoring": "Data Monitoring",
+      "deadReport": "Dead Reports",
+      "teamManagement": "Team Management"
+    },
+    "customer": {
+      "all": "All Customers",
+      "blocked": "Blocked Customers",
+      "verify": "Pending Verification",
+      "wallet": "Wallet Customers",
+      "walletTxn": "Wallet Transactions",
+      "verifyChat": "Verify Chat",
+      "verifyLive": "Verify Live",
+      "verifyVideo": "Verify Video",
+      "blockedChat": "Blocked Chat",
+      "blockedLive": "Blocked Live",
+      "blockedVideo": "Blocked Video"
+    },
+    "astrologer": {
+      "all": "All Astrologers",
+      "pending": "Pending Requests",
+      "rejected": "Rejected Requests",
+      "blocked": "Blocked Astrologers",
+      "boost": "Profile Boost Settings",
+      "boostHistory": "Boost History",
+      "commission": "Commissions",
+      "assistant": "Assistants",
+      "categories": "Categories",
+      "skills": "Skills",
+      "gifts": "Gifts",
+      "documents": "Documents"
+    },
+    "content": {
+      "blogs": "Blogs",
+      "news": "News",
+      "videos": "Videos",
+      "stories": "Stories",
+      "banners": "Banners",
+      "notifications": "Notifications",
+      "emailTemplates": "Email Templates",
+      "pages": "Pages"
+    },
+    "aicounsellor": {
+      "manage": "Manage AI Counsellor",
+      "history": "AI Sessions"
+    },
+    "astroshop": {
+      "products": "Products",
+      "categories": "Categories",
+      "orders": "Orders",
+      "recommend": "Recommendations"
+    },
+    "horoscope": {
+      "daily": "Daily Horoscope",
+      "weekly": "Weekly Horoscope",
+      "yearly": "Yearly Horoscope"
+    },
+    "pujas": {
+      "categories": "Categories",
+      "subcategories": "Sub Categories",
+      "packages": "Packages",
+      "puja": "Pujas",
+      "faqs": "FAQs",
+      "orders": "Orders",
+      "recommend": "Recommendations",
+      "astrologer": "Astrologer Puja"
+    },
+    "courses": {
+      "categories": "Categories",
+      "course": "Courses",
+      "chapters": "Chapters",
+      "orders": "Orders"
+    },
+    "finance": {
+      "earnings": "Admin Earnings",
+      "withdrawals": "Withdrawal Requests",
+      "recharge": "Recharge History",
+      "receiveFund": "Receive Fund"
+    },
+    "reports": {
+      "calls": "Call Reports",
+      "chats": "Chat Reports",
+      "partnerWise": "Partner Wise Earnings",
+      "requests": "Report Requests",
+      "kundali": "Kundali Reports",
+      "astromall": "Astromall Reports",
+      "puja": "Puja Reports",
+      "tds": "TDS Reports",
+      "gst": "GST Reports"
+    },
+    "support": {
+      "tickets": "Tickets",
+      "aichat": "AI Chat",
+      "reports": "Support Reports",
+      "contact": "Contact Form",
+      "feedback": "Feedback"
+    },
+    "receivefund": {
+      "requests": "Recharge Requests",
+      "withdrawal": "Withdrawal Amount",
+      "beneficiaries": "Beneficiaries",
+      "withdrawRequests": "Withdrawal Requests"
+    },
+    "profitloss": {
+      "all": "All Reports",
+      "loss": "Loss Reports",
+      "profit": "Profit Reports"
+    },
+    "promoter": {
+      "all": "All Reports",
+      "loss": "Loss Reports",
+      "profit": "Profit Reports"
+    },
+    "offers": {
+      "all": "All Offers",
+      "report": "Offers Report",
+      "referral": "Referrals",
+      "referralReport": "Referral Reports"
+    },
+    "master": {
+      "avatar": "Customer Avatar",
+      "horoscopeSigns": "Horoscope Signs",
+      "reportType": "Report Types",
+      "recharge": "Recharge Amounts",
+      "kundaliPrice": "Kundali Prices",
+      "referral": "Referral Settings",
+      "trainingVideo": "Training Videos"
+    },
+    "general": {
+      "general": "General",
+      "masterImage": "Master Image",
+      "customerApp": "Customer App",
+      "astrologerApp": "Astrologer App",
+      "webApp": "Web App",
+      "social": "Social Links",
+      "payments": "Payment Gateway",
+      "financial": "Financial",
+      "thirdParty": "Third Party",
+      "developer": "Developer"
+    },
+    "datamont": {
+      "chats": "Chats",
+      "calls": "Calls",
+      "messages": "Messages",
+      "aiChats": "AI Chats",
+      "live": "Live Consultations",
+      "video": "Video Consultations",
+      "livePuja": "Live Puja",
+      "horoscopes": "Horoscopes",
+      "blockKeywords": "Block Keywords"
+    },
+    "deadreport": {
+      "all": "All Dead Reports",
+      "history": "History"
+    },
+    "team": {
+      "list": "Team List",
+      "roles": "Roles & Permissions",
+      "manage": "Team Management",
+      "pages": "Page Management"
+    },
+    "fundManagement": {
+      "title": "Fund Management",
+      "beneficiaries": "Beneficiaries",
+      "addBeneficiary": "Add Beneficiary",
+      "viewBeneficiaries": "View Beneficiaries",
+      "withdrawRequests": "Withdraw Requests",
+      "payoutLogs": "Payout Logs",
+      "pointSystem": "Point System"
+    },
+    "integrationHub": {
+      "title": "Integration Hub",
+      "agora": {
+        "dashboard": "Agora Dashboard",
+        "token": "Agora Token"
+      },
+      "kafka": {
+        "dashboard": "Kafka Dashboard",
+        "topics": "Topics",
+        "producer": "Producer",
+        "consumer": "Consumer"
+      },
+      "redis": {
+        "dashboard": "Redis Dashboard",
+        "keys": "Keys",
+        "command": "Command"
+      },
+      "payments": {
+        "gateways": "Payment Gateways",
+        "test": "Test Payments",
+        "webhook": "Webhooks"
+      },
+      "notifications": {
+        "push": "Push Notifications",
+        "email": "Email Notifications",
+        "sms": "SMS Notifications",
+        "broadcast": "Broadcast"
+      },
+      "storage": {
+        "dashboard": "Storage Dashboard",
+        "upload": "Upload"
+      },
+      "system": {
+        "health": "System Health",
+        "config": "System Config",
+        "logs": "System Logs"
+      }
+    }
+  },
+  "common": {
+    "save": "Save",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "loading": "Loading...",
+    "noData": "No data found",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "reset": "Reset",
+    "close": "Close",
+    "confirm": "Confirm",
+    "actions": "Actions",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "clear": "Clear",
+    "apply": "Apply",
+    "refresh": "Refresh",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "print": "Print",
+    "copy": "Copy",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "welcomeBack": "Welcome Back",
+    "signInToContinue": "Please sign in to continue",
+    "invalidCredentials": "Invalid email or password",
+    "sessionExpired": "Session expired. Please login again.",
+    "otp": "OTP Code"
+  },
+  "dashboard": {
+    "totalCustomers": "Clients totaux",
+    "totalAstrologers": "Astrologues totaux",
+    "totalRevenue": "Gain total",
+    "monthlyEarnings": "Rapport mensuel des gains",
+    "topAstrologers": "Astrologues les plus performants",
+    "pendingRequests": "Approbations en attente",
+    "totalOrders": "Commandes totales",
+    "todayCalls": "Appels",
+    "todayChats": "Chats",
+    "title": "Tableau de bord",
+    "subtitle": "Vue en temps réel de votre plateforme d'astrologie",
+    "live": "En direct",
+    "actions": {
+      "retry": "Réessayer"
+    },
+    "cards": {
+      "callRequest": "Demandes d'appel",
+      "chatRequest": "Demandes de chat",
+      "reportRequest": "Demandes de rapport",
+      "totalEarning": "Gain total",
+      "totalCustomer": "Clients totaux",
+      "totalAstrologer": "Astrologues totaux",
+      "totalOrders": "Commandes totales",
+      "totalStories": "Stories totales",
+      "totalPujaOrders": "Commandes de puja",
+      "totalCourseOrders": "Commandes de cours",
+      "activeCustomers": "Clients actifs",
+      "activeAstrologers": "Astrologues actifs"
+    },
+    "charts": {
+      "monthlyEarningTitle": "Rapport mensuel des gains",
+      "monthlyEarningDescription": "Crédits portefeuille terminés sur les 12 derniers mois",
+      "monthlyRequestsTitle": "Demandes mensuelles",
+      "monthlyRequestsDescription": "Volume des demandes d'appel et de chat sur les 12 derniers mois"
+    },
+    "series": {
+      "earnings": "Gains",
+      "calls": "Appels",
+      "chats": "Chats"
+    },
+    "tables": {
+      "topAstrologers": "Astrologues les plus performants",
+      "unverifiedAstrologers": "Astrologues non vérifiés",
+      "byConsultations": "Par demandes",
+      "needsReview": "À examiner"
+    },
+    "table": {
+      "astrologer": "Astrologue",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "requests": "Demandes"
+    },
+    "states": {
+      "errorTitle": "Impossible de charger le tableau de bord",
+      "noEarningTitle": "Aucun gain pour le moment",
+      "noEarningDescription": "Les gains mensuels apparaîtront ici lorsque des crédits seront disponibles.",
+      "noRequestsTitle": "Aucune demande pour le moment",
+      "noRequestsDescription": "Les tendances mensuelles apparaîtront ici lorsque des sessions seront créées.",
+      "noTopAstrologersTitle": "Aucun astrologue en tête pour le moment",
+      "noTopAstrologersDescription": "Les meilleurs apparaîtront ici après réception de demandes.",
+      "noUnverifiedTitle": "Aucun astrologue en attente",
+      "noUnverifiedDescription": "Les nouvelles candidatures à vérifier apparaîtront ici."
+    },
+    "platformHealth": {
+      "title": "Santé de la plateforme",
+      "activeCustomers": "Clients actifs",
+      "activeAstrologers": "Astrologues actifs",
+      "pendingApprovals": "Approbations en attente"
+    },
+    "quickActions": {
+      "title": "Actions rapides",
+      "addAstrologer": "Ajouter un astrologue",
+      "sendNotification": "Envoyer une notification",
+      "pendingRequests": "Voir les demandes en attente",
+      "approveWithdrawals": "Approuver les retraits",
+      "checkReports": "Voir les rapports"
+    },
+    "data": {
+      "stats": "Dashboard Stats",
+      "callRequest": "Demandes d'appel",
+      "chatRequest": "Demandes de chat",
+      "reportRequest": "Demandes de rapport",
+      "totalEarning": "Gain total",
+      "totalCustomer": "Clients totaux",
+      "totalAstrologer": "Astrologues totaux",
+      "totalOrders": "Commandes totales",
+      "totalStories": "Stories totales",
+      "totalPujaOrders": "Commandes de puja",
+      "totalCourseOrders": "Commandes de cours",
+      "activeCustomers": "Clients actifs",
+      "activeAstrologers": "Astrologues actifs",
+      "monthlyEarning": "Rapport mensuel des gains",
+      "monthlyRequests": "Demandes mensuelles",
+      "topAstrologers": "Astrologues les plus performants",
+      "unverifiedAstrologers": "Astrologues non vérifiés",
+      "month": "Month",
+      "earning": "Earning",
+      "amount": "Amount",
+      "calls": "Appels",
+      "chats": "Chats",
+      "astrologer": "Astrologue",
+      "name": "Name",
+      "mobile": "Mobile",
+      "image": "Image",
+      "skills": "Compétences",
+      "languages": "Langues",
+      "rating": "Rating",
+      "totalCallRequest": "Total Call Requests",
+      "totalChatRequest": "Total Chat Requests",
+      "totalRequests": "Total Requests",
+      "createdAt": "Created At",
+      "pendingApprovals": "Approbations en attente",
+      "verified": "Verified",
+      "pending": "Pending",
+      "notAvailable": "Not Available"
+    },
+    "datasets": {
+      "stats": "Dashboard Stats",
+      "monthlyEarning": "Rapport mensuel des gains",
+      "monthlyRequests": "Demandes mensuelles",
+      "topAstrologers": "Astrologues les plus performants",
+      "unverifiedAstrologers": "Astrologues non vérifiés"
+    },
+    "apiMessages": {
+      "loadingStats": "Dashboard Stats...",
+      "loadingMonthlyEarning": "Rapport mensuel des gains...",
+      "loadingMonthlyRequests": "Demandes mensuelles...",
+      "loadingTopAstrologers": "Astrologues les plus performants...",
+      "loadingUnverifiedAstrologers": "Astrologues non vérifiés...",
+      "statsLoaded": "Dashboard Stats",
+      "dataUnavailable": "Not Available"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "minLength": "Minimum {{count}} characters",
+    "maxLength": "Maximum {{count}} characters",
+    "passwordMatch": "Passwords must match",
+    "invalidPhone": "Please enter a valid phone number"
+  },
+  "notification": {
+    "created": "Created successfully",
+    "updated": "Updated successfully",
+    "deleted": "Deleted successfully",
+    "confirmDelete": "Are you sure you want to delete this?",
+    "operationFailed": "Operation failed",
+    "noChanges": "No changes detected"
+  },
+  "customer": {
+    "verifyReject": {
+      "title": "Vérifier / rejeter les clients",
+      "subtitle": "Examinez les profils clients en attente et approuvez ou rejetez leur vérification.",
+      "searchPlaceholder": "Rechercher par nom, téléphone ou e-mail...",
+      "tableTitle": "Demandes de vérification client",
+      "emptyTitle": "Aucune demande trouvée",
+      "emptyDescription": "Les clients correspondant au statut sélectionné apparaîtront ici.",
+      "errorTitle": "Impossible de charger les demandes",
+      "filters": {
+        "all": "Tous",
+        "pending": "En attente",
+        "verified": "Vérifié",
+        "rejected": "Rejeté"
+      },
+      "status": {
+        "pending": "En attente",
+        "verified": "Vérifié",
+        "rejected": "Rejeté"
+      },
+      "table": {
+        "customer": "Client",
+        "mobile": "Mobile",
+        "email": "E-mail",
+        "registeredAt": "Inscrit le",
+        "status": "Statut",
+        "actions": "Actions"
+      },
+      "actions": {
+        "verify": "Vérifier",
+        "reject": "Rejeter",
+        "retry": "Réessayer"
+      },
+      "toast": {
+        "verified": "Client vérifié avec succès",
+        "rejected": "Client rejeté avec succès",
+        "failed": "Échec de la mise à jour du client"
+      }
+    },
+    "blocked": {
+      "title": "Clients bloqués",
+      "subtitle": "Examinez les comptes clients bloqués et restaurez l’accès si nécessaire.",
+      "searchPlaceholder": "Rechercher par nom, téléphone ou e-mail...",
+      "tableTitle": "Comptes clients bloqués",
+      "emptyTitle": "Aucun client bloqué trouvé",
+      "emptyDescription": "Les clients dont l’accès est bloqué apparaîtront ici.",
+      "errorTitle": "Impossible de charger les clients bloqués",
+      "filters": {
+        "all": "Tous",
+        "blocked": "Bloqués",
+        "active": "Actifs"
+      },
+      "status": {
+        "blocked": "Bloqué",
+        "active": "Actif"
+      },
+      "table": {
+        "customer": "Client",
+        "mobile": "Mobile",
+        "email": "E-mail",
+        "reason": "Raison",
+        "status": "Statut",
+        "actions": "Actions"
+      },
+      "actions": {
+        "block": "Bloquer",
+        "unblock": "Débloquer",
+        "retry": "Réessayer"
+      },
+      "confirm": {
+        "unblockTitle": "Débloquer le client ?",
+        "unblockMessage": "Voulez-vous vraiment débloquer {{name}} ?"
+      },
+      "toast": {
+        "blocked": "Client bloqué avec succès",
+        "unblocked": "Client débloqué avec succès",
+        "failed": "Échec de la mise à jour du client"
+      }
+    },
+    "wallet": {
+      "title": "Clients portefeuille",
+      "subtitle": "Surveillez les soldes et l’activité récente des portefeuilles clients.",
+      "searchPlaceholder": "Rechercher par nom, téléphone ou e-mail...",
+      "tableTitle": "Portefeuilles clients",
+      "emptyTitle": "Aucun client portefeuille trouvé",
+      "emptyDescription": "Les clients correspondant au filtre sélectionné apparaîtront ici.",
+      "errorTitle": "Impossible de charger les clients portefeuille",
+      "filters": {
+        "all": "Tous",
+        "positive": "Solde positif",
+        "zero": "Solde nul"
+      },
+      "summary": {
+        "customers": "Clients",
+        "balance": "Solde total",
+        "credits": "Crédits récents",
+        "transactions": "Transactions"
+      },
+      "table": {
+        "customer": "Client",
+        "mobile": "Mobile",
+        "email": "E-mail",
+        "balance": "Solde du portefeuille",
+        "credits": "Crédits récents",
+        "transactions": "Transactions"
+      },
+      "actions": {
+        "retry": "Réessayer"
+      }
+    },
+    "walletTransactions": {
+      "title": "Transactions portefeuille",
+      "subtitle": "Consultez les crédits, débits, statuts de paiement et sources des transactions.",
+      "searchPlaceholder": "Rechercher par ID, client, source ou statut...",
+      "tableTitle": "Historique des transactions portefeuille",
+      "emptyTitle": "Aucune transaction trouvée",
+      "emptyDescription": "Les transactions correspondant aux filtres apparaîtront ici.",
+      "errorTitle": "Impossible de charger les transactions",
+      "filters": {
+        "allTypes": "Tous les types",
+        "allStatuses": "Tous les statuts"
+      },
+      "type": {
+        "credit": "Crédit",
+        "debit": "Débit"
+      },
+      "status": {
+        "confirmed": "Confirmé",
+        "pending": "En attente",
+        "failed": "Échoué"
+      },
+      "summary": {
+        "count": "Transactions",
+        "credit": "Crédit total",
+        "debit": "Débit total",
+        "net": "Montant net"
+      },
+      "table": {
+        "transaction": "Transaction",
+        "customer": "Client",
+        "type": "Type",
+        "amount": "Montant",
+        "status": "Statut",
+        "source": "Source",
+        "date": "Date"
+      },
+      "actions": {
+        "retry": "Réessayer"
+      }
+    },
+    "verifyChat": {
+      "title": "Vérifier le chat",
+      "subtitle": "Examinez l’éligibilité au chat et approuvez ou rejetez l’accès.",
+      "searchPlaceholder": "Rechercher par nom, téléphone ou e-mail...",
+      "tableTitle": "Vérification du chat client",
+      "emptyTitle": "Aucune demande de chat trouvée",
+      "emptyDescription": "Les clients correspondant au statut sélectionné apparaîtront ici.",
+      "errorTitle": "Impossible de charger les demandes de chat",
+      "filters": {
+        "all": "Tous",
+        "pending": "En attente",
+        "verified": "Vérifié",
+        "rejected": "Rejeté"
+      },
+      "status": {
+        "pending": "En attente",
+        "verified": "Vérifié",
+        "rejected": "Rejeté"
+      },
+      "table": {
+        "customer": "Client",
+        "mobile": "Mobile",
+        "email": "E-mail",
+        "totalChats": "Chats totaux",
+        "firstChat": "Premier chat",
+        "status": "Statut",
+        "actions": "Actions"
+      },
+      "actions": {
+        "verify": "Vérifier",
+        "reject": "Rejeter",
+        "retry": "Réessayer"
+      },
+      "toast": {
+        "verified": "Accès chat vérifié avec succès",
+        "rejected": "Accès chat rejeté avec succès",
+        "failed": "Échec de la mise à jour du chat"
+      }
+    }
+  },
+  "course": {
+    "categories": {
+      "title": "Catégories de cours",
+      "subtitle": "Créez et gérez les catégories du contenu de cours.",
+      "searchPlaceholder": "Rechercher des catégories...",
+      "tableTitle": "Liste des catégories de cours",
+      "emptyTitle": "Aucune catégorie trouvée",
+      "emptyDescription": "Créez une catégorie pour organiser les contenus.",
+      "errorTitle": "Impossible de charger les catégories",
+      "filters": {
+        "all": "Toutes",
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive"
+      },
+      "table": {
+        "category": "Catégorie",
+        "sortOrder": "Ordre",
+        "status": "Statut",
+        "createdAt": "Créé le",
+        "actions": "Actions"
+      },
+      "form": {
+        "name": "Nom",
+        "namePlaceholder": "Nom de la catégorie",
+        "description": "Description",
+        "descriptionPlaceholder": "Courte description",
+        "image": "URL image",
+        "imagePlaceholder": "https://example.com/category.png",
+        "sortOrder": "Ordre",
+        "status": "Active",
+        "chooseImage": "Choisir une image",
+        "noImageSelected": "Aucune image sélectionnée"
+      },
+      "modal": {
+        "createTitle": "Ajouter une catégorie",
+        "editTitle": "Modifier la catégorie"
+      },
+      "actions": {
+        "create": "Ajouter une catégorie",
+        "edit": "Modifier",
+        "delete": "Supprimer",
+        "retry": "Réessayer"
+      },
+      "confirm": {
+        "deleteTitle": "Supprimer la catégorie ?",
+        "deleteMessage": "Voulez-vous vraiment supprimer {{name}} ?"
+      },
+      "toast": {
+        "created": "Catégorie créée avec succès",
+        "updated": "Catégorie mise à jour avec succès",
+        "deleted": "Catégorie supprimée avec succès",
+        "activated": "Catégorie activée",
+        "deactivated": "Catégorie désactivée",
+        "failed": "Action échouée"
+      }
+    }
+  },
+  "generalTabs": {
+    "subtitle": "Gérez la configuration de cette section.",
+    "sectionKey": "Section",
+    "errorTitle": "Impossible de charger la configuration",
+    "noFields": "Aucun champ configuré pour cette section.",
+    "toast": {
+      "saved": "Configuration enregistrée avec succès",
+      "failed": "Échec de l’enregistrement"
+    },
+    "sections": {
+      "general": {
+        "title": "Général",
+        "subtitle": "Core platform URLs, currency, support, and feature toggles."
+      },
+      "payments": {
+        "title": "Passerelle de paiement",
+        "subtitle": "Configure payment gateway toggles and credentials."
+      },
+      "social": {
+        "title": "Liens sociaux",
+        "subtitle": "Manage social and app store links."
+      },
+      "third_party": {
+        "title": "Services tiers",
+        "subtitle": "Configure external services like maps, SMS, email, AI, Agora, and storage."
+      },
+      "master_image": {
+        "title": "Images principales",
+        "subtitle": "Manage default image references used across the platform."
+      },
+      "customer_app": {
+        "title": "Paramètres app client",
+        "subtitle": "Manage customer mobile app version, links, and maintenance settings."
+      },
+      "astrologer_app": {
+        "title": "Paramètres app astrologue",
+        "subtitle": "Manage partner app version, links, and maintenance settings."
+      },
+      "website_config": {
+        "title": "Paramètres web",
+        "subtitle": "Manage website SEO and Firebase web configuration."
+      },
+      "financial": {
+        "title": "Financier",
+        "subtitle": "Manage commissions, tax percentages, minimum prices, and bonus values."
+      },
+      "developer": {
+        "title": "Paramètres développeur",
+        "subtitle": "Manage developer, Redis, Kafka, and operational integration settings."
+      }
+    },
+    "fields": {
+      "app_name": "App Name",
+      "app_short_name": "App Short Name",
+      "profession_title": "Profession Title",
+      "admin_url": "Admin Url",
+      "customer_url": "Customer Url",
+      "astrologer_url": "Astrologer Url",
+      "website_url": "Website Url",
+      "supportemail": "Supportemail",
+      "supportmobile": "Supportmobile",
+      "currency": "Currency",
+      "currency_symbol": "Currency Symbol",
+      "usd_to_inr": "Usd To Inr",
+      "enable_chat": "Enable Chat",
+      "enable_call": "Enable Call",
+      "enable_live": "Enable Live",
+      "enable_report": "Enable Report",
+      "enable_puja": "Enable Puja",
+      "enable_course": "Enable Course",
+      "enable_astroshop": "Enable Astroshop",
+      "first_chat_free": "First Chat Free",
+      "first_call_free": "First Call Free",
+      "website": "Website",
+      "youtube_link": "Youtube Link",
+      "facebook_link": "Facebook Link",
+      "instagram_link": "Instagram Link",
+      "linkedin_link": "Linkedin Link",
+      "pinterest_link": "Pinterest Link",
+      "telegram_link": "Telegram Link",
+      "twitter_link": "Twitter Link",
+      "apple_link": "Apple Link",
+      "logo": "Logo",
+      "default_profile": "Default Profile",
+      "astroshop": "Astroshop",
+      "daily_horoscope": "Daily Horoscope",
+      "kundali": "Kundali",
+      "kundali_matching": "Kundali Matching",
+      "today_panchang": "Today Panchang",
+      "category": "Category",
+      "blog": "Blog",
+      "puja": "Puja",
+      "course": "Course",
+      "notification": "Notification",
+      "chat_icon": "Chat Icon",
+      "call_icon": "Call Icon",
+      "report_icon": "Report Icon",
+      "appName": "AppName",
+      "appShortName": "AppShortName",
+      "appLogo": "AppLogo",
+      "androidversion": "Androidversion",
+      "iOSversion": "IOSversion",
+      "version": "Version",
+      "androidappurl": "Androidappurl",
+      "iosappurl": "Iosappurl",
+      "maintenance": "Maintenance",
+      "iOSmaintenance": "IOSmaintenance",
+      "force_update_android": "Force Update Android",
+      "force_update_ios": "Force Update Ios",
+      "website_name": "Website Name",
+      "meta_title": "Meta Title",
+      "meta_description": "Meta Description",
+      "website_logo": "Website Logo",
+      "favicon": "Favicon",
+      "firebase_api_key": "Firebase Api Key",
+      "firebase_auth_domain": "Firebase Auth Domain",
+      "firebase_project_id": "Firebase Project Id",
+      "firebase_storage_bucket": "Firebase Storage Bucket",
+      "firebase_messaging_sender_id": "Firebase Messaging Sender Id",
+      "firebase_app_id": "Firebase App Id",
+      "call_commission": "Call Commission",
+      "chat_commission": "Chat Commission",
+      "video_commission": "Video Commission",
+      "report_commission": "Report Commission",
+      "tds_percentage": "Tds Percentage",
+      "gst_percentage": "Gst Percentage",
+      "min_call_price": "Min Call Price",
+      "min_chat_price": "Min Chat Price",
+      "min_video_price": "Min Video Price",
+      "min_report_price": "Min Report Price",
+      "referral_bonus": "Referral Bonus",
+      "first_recharge_bonus": "First Recharge Bonus",
+      "gst_rate": "Gst Rate",
+      "razorpay.enabled": "Enabled",
+      "razorpay.key_id": "Key Id",
+      "razorpay.key_secret": "Key Secret",
+      "cashfree.enabled": "Enabled",
+      "cashfree.app_id": "App Id",
+      "cashfree.secret_key": "Secret Key",
+      "cashfree.mode": "Mode",
+      "phonepe.enabled": "Enabled",
+      "phonepe.merchant_id": "Merchant Id",
+      "phonepe.salt_key": "Salt Key",
+      "phonepe.mode": "Mode",
+      "stripe.enabled": "Enabled",
+      "stripe.publishable_key": "Publishable Key",
+      "stripe.secret_key": "Secret Key",
+      "paypal.enabled": "Enabled",
+      "paypal.client_id": "Client Id",
+      "paypal.client_secret": "Client Secret",
+      "bucket_provider": "Bucket Provider",
+      "agora.enabled": "Enabled",
+      "agora.app_id": "App Id",
+      "agora.key": "Key",
+      "agora.secret": "Secret",
+      "agora.certificate": "Certificate",
+      "gmap.api_key": "Api Key",
+      "gmap.android_key": "Android Key",
+      "gmap.ios_key": "Ios Key",
+      "shiprocket.enabled": "Enabled",
+      "shiprocket.email": "Email",
+      "shiprocket.password": "Password",
+      "sms.enabled": "Enabled",
+      "sms.provider": "Provider",
+      "sms.auth_key": "Auth Key",
+      "sms.sender_id": "Sender Id",
+      "email.enabled": "Enabled",
+      "email.provider": "Provider",
+      "email.host": "Host",
+      "email.port": "Port",
+      "email.user": "User",
+      "email.pass": "Pass",
+      "ai.enabled": "Enabled",
+      "ai.provider": "Provider",
+      "ai.openai_api_key": "Openai Api Key",
+      "ai.gemini_api_key": "Gemini Api Key",
+      "ai.claude_api_key": "Claude Api Key",
+      "secret_token": "Secret Token",
+      "image_url": "Image Url",
+      "callback_url": "Callback Url",
+      "redis_env": "Redis Env",
+      "redis_url": "Redis Url",
+      "redis_host": "Redis Host",
+      "redis_port": "Redis Port",
+      "redis_provider": "Redis Provider",
+      "KAFKA_BROKER": "KAFKA BROKER",
+      "KAFKA_CLIENT_ID": "KAFKA CLIENT ID",
+      "slack_webhook_url": "Slack Webhook Url",
+      "jira_base_url": "Jira Base Url",
+      "pagerduty_routing_key": "Pagerduty Routing Key"
+    }
+  }
+}

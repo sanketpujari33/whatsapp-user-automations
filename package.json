@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-wallet-platform",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node init && concurrently \"npm --prefix server run dev\" \"npm --prefix admin run dev\"",
+    "dev:server": "node init && npm --prefix server run dev",
+    "dev:admin": "node init && npm --prefix admin run dev",
+    "build": "node init && npm --prefix admin run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

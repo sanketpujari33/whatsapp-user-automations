@@ -1,0 +1,887 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "لوحة القيادة",
+      "home": "الرئيسية"
+    },
+    "settings": {
+      "settings": "الإعدادات",
+      "general": "عام",
+      "appearance": "المظهر",
+      "title": "الإعدادات"
+    },
+    "astroAdmin": {
+      "dashboard": "لوحة القيادة",
+      "customers": "العملاء",
+      "astrologers": "المنجمون",
+      "content": "المحتوى",
+      "aiCounsellor": "المستشار الذكي",
+      "astroshop": "متجر الفلك",
+      "horoscope": "الأبراج",
+      "pujas": "البوجا",
+      "courses": "الدورات",
+      "earning": "الأرباح",
+      "reports": "التقارير",
+      "support": "الدعم",
+      "generalSettings": "الإعدادات العامة",
+      "masterSettings": "الإعدادات الرئيسية",
+      "offers": "العروض",
+      "profitLoss": "الأرباح / الخسائر",
+      "promoter": "المروجين",
+      "receiveFund": "استلام الأموال",
+      "dataMonitoring": "مراقبة البيانات",
+      "deadReport": "التقارير المنتهية",
+      "teamManagement": "إدارة الفريق"
+    },
+    "customer": {
+      "all": "جميع العملاء",
+      "blocked": "العملاء المحظورون",
+      "verify": "التحقق المعلق",
+      "wallet": "محفظة العملاء",
+      "walletTxn": "معاملات المحفظة",
+      "verifyChat": "تحقق من الدردشة",
+      "verifyLive": "تحقق من المباشر",
+      "verifyVideo": "تحقق من الفيديو",
+      "blockedChat": "دردشة محظورة",
+      "blockedLive": "مباشر محظور",
+      "blockedVideo": "فيديو محظور"
+    },
+    "astrologer": {
+      "all": "جميع المنجمين",
+      "pending": "الطلبات المعلقة",
+      "rejected": "الطلبات المرفوضة",
+      "blocked": "المنجمون المحظورون",
+      "boost": "إعدادات تعزيز الملف الشخصي",
+      "boostHistory": "سجل التعزيز",
+      "commission": "العمولات",
+      "assistant": "المساعدون",
+      "categories": "الفئات",
+      "skills": "المهارات",
+      "gifts": "الهدايا",
+      "documents": "المستندات"
+    },
+    "content": {
+      "blogs": "المدونات",
+      "news": "الأخبار",
+      "videos": "الفيديو",
+      "stories": "القصص",
+      "banners": "اللافتات",
+      "notifications": "الإشعارات",
+      "emailTemplates": "قوالب البريد الإلكتروني",
+      "pages": "الصفحات"
+    },
+    "aicounsellor": {
+      "manage": "إدارة المستشار الذكي",
+      "history": "جلسات الذكاء الاصطناعي"
+    },
+    "astroshop": {
+      "products": "المنتجات",
+      "categories": "الفئات",
+      "orders": "الطلبات",
+      "recommend": "التوصيات"
+    },
+    "horoscope": {
+      "daily": "برج اليوم",
+      "weekly": "برج الأسبوع",
+      "yearly": "برج السنة"
+    },
+    "pujas": {
+      "categories": "الفئات",
+      "subcategories": "الفئات الفرعية",
+      "packages": "الباقات",
+      "puja": "البوجا",
+      "faqs": "الأسئلة الشائعة",
+      "orders": "الطلبات",
+      "recommend": "التوصيات",
+      "astrologer": "بوجا المنجم"
+    },
+    "courses": {
+      "categories": "الفئات",
+      "course": "الدورات",
+      "chapters": "الفصول",
+      "orders": "الطلبات"
+    },
+    "finance": {
+      "earnings": "أرباح الإدارة",
+      "withdrawals": "طلبات السحب",
+      "recharge": "سجل الشحن",
+      "receiveFund": "استلام الأموال"
+    },
+    "reports": {
+      "calls": "تقارير المكالمات",
+      "chats": "تقارير الدردشة",
+      "partnerWise": "أرباح الشركاء",
+      "requests": "طلبات التقارير",
+      "kundali": "تقارير الكندلي",
+      "astromall": "تقارير المتجر",
+      "puja": "تقارير البوجا",
+      "tds": "تقارير TDS",
+      "gst": "تقارير GST"
+    },
+    "support": {
+      "tickets": "التذاكر",
+      "aichat": "الدردشة الذكية",
+      "reports": "تقارير الدعم",
+      "contact": "نموذج الاتصال",
+      "feedback": "الملاحظات"
+    },
+    "receivefund": {
+      "requests": "طلبات الشحن",
+      "withdrawal": "مبلغ السحب",
+      "beneficiaries": "المستفيدون",
+      "withdrawRequests": "طلبات السحب"
+    },
+    "profitloss": {
+      "all": "جميع التقارير",
+      "loss": "تقارير الخسائر",
+      "profit": "تقارير الأرباح"
+    },
+    "promoter": {
+      "all": "جميع التقارير",
+      "loss": "تقارير الخسائر",
+      "profit": "تقارير الأرباح"
+    },
+    "offers": {
+      "all": "جميع العروض",
+      "report": "تقرير العروض",
+      "referral": "الإحالات",
+      "referralReport": "تقارير الإحالات"
+    },
+    "master": {
+      "avatar": "الصورة الرمزية للعميل",
+      "horoscopeSigns": "علامات الأبراج",
+      "reportType": "أنواع التقارير",
+      "recharge": "مبالغ الشحن",
+      "kundaliPrice": "أسعار الكندلي",
+      "referral": "إعدادات الإحالة",
+      "trainingVideo": "فيديوهات التدريب"
+    },
+    "general": {
+      "general": "عام",
+      "masterImage": "الصورة الرئيسية",
+      "customerApp": "تطبيق العميل",
+      "astrologerApp": "تطبيق المنجم",
+      "webApp": "تطبيق الويب",
+      "social": "روابط التواصل",
+      "payments": "بوابة الدفع",
+      "financial": "المالية",
+      "thirdParty": "طرف ثالث",
+      "developer": "المطور"
+    },
+    "datamont": {
+      "chats": "الدردشات",
+      "calls": "المكالمات",
+      "messages": "الرسائل",
+      "aiChats": "دردشات الذكاء الاصطناعي",
+      "live": "الاستشارات المباشرة",
+      "video": "الاستشارات بالفيديو",
+      "livePuja": "البوجا المباشرة",
+      "horoscopes": "الأبراج",
+      "blockKeywords": "حظر الكلمات المفتاحية"
+    },
+    "deadreport": {
+      "all": "جميع التقارير المنتهية",
+      "history": "السجل"
+    },
+    "team": {
+      "list": "قائمة الفريق",
+      "roles": "الأدوار والصلاحيات",
+      "manage": "إدارة الفريق",
+      "pages": "إدارة الصفحات"
+    },
+    "fundManagement": {
+      "title": "إدارة الأموال",
+      "beneficiaries": "المستفيدون",
+      "addBeneficiary": "إضافة مستفيد",
+      "viewBeneficiaries": "عرض المستفيدين",
+      "withdrawRequests": "طلبات السحب",
+      "payoutLogs": "سجل المدفوعات",
+      "pointSystem": "نظام النقاط"
+    },
+    "integrationHub": {
+      "title": "مركز التكامل",
+      "agora": {
+        "dashboard": "لوحة Agora",
+        "token": "رمز Agora"
+      },
+      "kafka": {
+        "dashboard": "لوحة Kafka",
+        "topics": "المواضيع",
+        "producer": "المنتج",
+        "consumer": "المستهلك"
+      },
+      "redis": {
+        "dashboard": "لوحة Redis",
+        "keys": "المفاتيح",
+        "command": "الأمر"
+      },
+      "payments": {
+        "gateways": "بوابات الدفع",
+        "test": "اختبار الدفع",
+        "webhook": "Webhook"
+      },
+      "notifications": {
+        "push": "إشعارات فورية",
+        "email": "إشعارات البريد",
+        "sms": "إشعارات SMS",
+        "broadcast": "بث"
+      },
+      "storage": {
+        "dashboard": "لوحة التخزين",
+        "upload": "رفع"
+      },
+      "system": {
+        "health": "صحة النظام",
+        "config": "إعدادات النظام",
+        "logs": "سجلات النظام"
+      }
+    }
+  },
+  "common": {
+    "save": "حفظ",
+    "saving": "جارٍ الحفظ...",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "search": "بحث",
+    "filter": "تصفية",
+    "export": "تصدير",
+    "import": "استيراد",
+    "loading": "جارٍ التحميل...",
+    "noData": "لا توجد بيانات",
+    "back": "رجوع",
+    "next": "التالي",
+    "submit": "إرسال",
+    "reset": "إعادة تعيين",
+    "close": "إغلاق",
+    "confirm": "تأكيد",
+    "actions": "الإجراءات",
+    "status": "الحالة",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "enabled": "مفعل",
+    "disabled": "معطل",
+    "yes": "نعم",
+    "no": "لا",
+    "all": "الكل",
+    "clear": "مسح",
+    "apply": "تطبيق",
+    "refresh": "تحديث",
+    "view": "عرض",
+    "download": "تنزيل",
+    "upload": "رفع",
+    "print": "طباعة",
+    "copy": "نسخ",
+    "success": "نجاح",
+    "error": "خطأ",
+    "warning": "تحذير",
+    "info": "معلومات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "welcomeBack": "مرحبًا بعودتك",
+    "signInToContinue": "يرجى تسجيل الدخول للمتابعة",
+    "invalidCredentials": "بريد إلكتروني أو كلمة مرور غير صحيحة",
+    "sessionExpired": "انتهت الجلسة. يرجى تسجيل الدخول مرة أخرى.",
+    "otp": "رمز OTP"
+  },
+  "dashboard": {
+    "totalCustomers": "إجمالي العملاء",
+    "totalAstrologers": "إجمالي المنجمين",
+    "totalRevenue": "إجمالي الأرباح",
+    "monthlyEarnings": "تقرير الأرباح الشهري",
+    "topAstrologers": "أفضل المنجمين أداءً",
+    "pendingRequests": "الموافقات المعلقة",
+    "totalOrders": "إجمالي الطلبات",
+    "todayCalls": "المكالمات",
+    "todayChats": "الدردشات",
+    "title": "لوحة التحكم",
+    "subtitle": "نظرة فورية على منصة التنجيم الخاصة بك",
+    "live": "مباشر",
+    "actions": {
+      "retry": "حاول مرة أخرى"
+    },
+    "cards": {
+      "callRequest": "طلبات المكالمات",
+      "chatRequest": "طلبات الدردشة",
+      "reportRequest": "طلبات التقارير",
+      "totalEarning": "إجمالي الأرباح",
+      "totalCustomer": "إجمالي العملاء",
+      "totalAstrologer": "إجمالي المنجمين",
+      "totalOrders": "إجمالي الطلبات",
+      "totalStories": "إجمالي القصص",
+      "totalPujaOrders": "طلبات البوجا",
+      "totalCourseOrders": "طلبات الدورات",
+      "activeCustomers": "العملاء النشطون",
+      "activeAstrologers": "المنجمون النشطون"
+    },
+    "charts": {
+      "monthlyEarningTitle": "تقرير الأرباح الشهري",
+      "monthlyEarningDescription": "أرصدة المحفظة المكتملة خلال آخر 12 شهراً",
+      "monthlyRequestsTitle": "الطلبات الشهرية",
+      "monthlyRequestsDescription": "حجم طلبات المكالمات والدردشة خلال آخر 12 شهراً"
+    },
+    "series": {
+      "earnings": "الأرباح",
+      "calls": "المكالمات",
+      "chats": "الدردشات"
+    },
+    "tables": {
+      "topAstrologers": "أفضل المنجمين أداءً",
+      "unverifiedAstrologers": "منجمون غير موثقين",
+      "byConsultations": "حسب الطلبات",
+      "needsReview": "يحتاج مراجعة"
+    },
+    "table": {
+      "astrologer": "منجم",
+      "skills": "المهارات",
+      "languages": "اللغات",
+      "requests": "الطلبات"
+    },
+    "states": {
+      "errorTitle": "تعذر تحميل لوحة التحكم",
+      "noEarningTitle": "لا توجد أرباح بعد",
+      "noEarningDescription": "ستظهر بيانات الأرباح الشهرية هنا عند توفر أرصدة مكتملة.",
+      "noRequestsTitle": "لا توجد طلبات بعد",
+      "noRequestsDescription": "ستظهر اتجاهات الطلبات الشهرية هنا عند إنشاء جلسات مكالمة أو دردشة.",
+      "noTopAstrologersTitle": "لا يوجد منجمون بارزون بعد",
+      "noTopAstrologersDescription": "سيظهر الأفضل أداءً بعد بدء تلقي الطلبات.",
+      "noUnverifiedTitle": "لا يوجد منجمون معلقون",
+      "noUnverifiedDescription": "ستظهر طلبات المنجمين الجديدة التي تحتاج إلى توثيق هنا."
+    },
+    "platformHealth": {
+      "title": "حالة المنصة",
+      "activeCustomers": "العملاء النشطون",
+      "activeAstrologers": "المنجمون النشطون",
+      "pendingApprovals": "الموافقات المعلقة"
+    },
+    "quickActions": {
+      "title": "إجراءات سريعة",
+      "addAstrologer": "إضافة منجم جديد",
+      "sendNotification": "إرسال إشعار",
+      "pendingRequests": "عرض الطلبات المعلقة",
+      "approveWithdrawals": "الموافقة على السحوبات",
+      "checkReports": "فحص التقارير"
+    },
+    "data": {
+      "stats": "Dashboard Stats",
+      "callRequest": "طلبات المكالمات",
+      "chatRequest": "طلبات الدردشة",
+      "reportRequest": "طلبات التقارير",
+      "totalEarning": "إجمالي الأرباح",
+      "totalCustomer": "إجمالي العملاء",
+      "totalAstrologer": "إجمالي المنجمين",
+      "totalOrders": "إجمالي الطلبات",
+      "totalStories": "إجمالي القصص",
+      "totalPujaOrders": "طلبات البوجا",
+      "totalCourseOrders": "طلبات الدورات",
+      "activeCustomers": "العملاء النشطون",
+      "activeAstrologers": "المنجمون النشطون",
+      "monthlyEarning": "تقرير الأرباح الشهري",
+      "monthlyRequests": "الطلبات الشهرية",
+      "topAstrologers": "أفضل المنجمين أداءً",
+      "unverifiedAstrologers": "منجمون غير موثقين",
+      "month": "Month",
+      "earning": "Earning",
+      "amount": "Amount",
+      "calls": "المكالمات",
+      "chats": "الدردشات",
+      "astrologer": "منجم",
+      "name": "Name",
+      "mobile": "Mobile",
+      "image": "Image",
+      "skills": "المهارات",
+      "languages": "اللغات",
+      "rating": "Rating",
+      "totalCallRequest": "Total Call Requests",
+      "totalChatRequest": "Total Chat Requests",
+      "totalRequests": "Total Requests",
+      "createdAt": "Created At",
+      "pendingApprovals": "الموافقات المعلقة",
+      "verified": "Verified",
+      "pending": "Pending",
+      "notAvailable": "Not Available"
+    },
+    "datasets": {
+      "stats": "Dashboard Stats",
+      "monthlyEarning": "تقرير الأرباح الشهري",
+      "monthlyRequests": "الطلبات الشهرية",
+      "topAstrologers": "أفضل المنجمين أداءً",
+      "unverifiedAstrologers": "منجمون غير موثقين"
+    },
+    "apiMessages": {
+      "loadingStats": "Dashboard Stats...",
+      "loadingMonthlyEarning": "تقرير الأرباح الشهري...",
+      "loadingMonthlyRequests": "الطلبات الشهرية...",
+      "loadingTopAstrologers": "أفضل المنجمين أداءً...",
+      "loadingUnverifiedAstrologers": "منجمون غير موثقين...",
+      "statsLoaded": "Dashboard Stats",
+      "dataUnavailable": "Not Available"
+    }
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "يرجى إدخال بريد إلكتروني صحيح",
+    "minLength": "الحد الأدنى {{count}} أحرف",
+    "maxLength": "الحد الأقصى {{count}} أحرف",
+    "passwordMatch": "يجب أن تتطابق كلمات المرور",
+    "invalidPhone": "يرجى إدخال رقم هاتف صحيح"
+  },
+  "notification": {
+    "created": "تم الإنشاء بنجاح",
+    "updated": "تم التحديث بنجاح",
+    "deleted": "تم الحذف بنجاح",
+    "confirmDelete": "هل أنت متأكد من حذف هذا؟",
+    "operationFailed": "فشلت العملية",
+    "noChanges": "لا توجد تغييرات"
+  },
+  "customer": {
+    "verifyReject": {
+      "title": "تحقق / رفض العملاء",
+      "subtitle": "راجع ملفات العملاء المعلقة ووافق أو ارفض حالة التحقق.",
+      "searchPlaceholder": "ابحث بالاسم أو الهاتف أو البريد...",
+      "tableTitle": "طلبات تحقق العملاء",
+      "emptyTitle": "لا توجد طلبات تحقق",
+      "emptyDescription": "سيظهر العملاء المطابقون لحالة التحقق المحددة هنا.",
+      "errorTitle": "تعذر تحميل طلبات التحقق",
+      "filters": {
+        "all": "الكل",
+        "pending": "معلق",
+        "verified": "موثق",
+        "rejected": "مرفوض"
+      },
+      "status": {
+        "pending": "معلق",
+        "verified": "موثق",
+        "rejected": "مرفوض"
+      },
+      "table": {
+        "customer": "العميل",
+        "mobile": "الجوال",
+        "email": "البريد الإلكتروني",
+        "registeredAt": "تاريخ التسجيل",
+        "status": "الحالة",
+        "actions": "الإجراءات"
+      },
+      "actions": {
+        "verify": "توثيق",
+        "reject": "رفض",
+        "retry": "حاول مرة أخرى"
+      },
+      "toast": {
+        "verified": "تم توثيق العميل بنجاح",
+        "rejected": "تم رفض العميل بنجاح",
+        "failed": "فشل تحديث العميل"
+      }
+    },
+    "blocked": {
+      "title": "العملاء المحظورون",
+      "subtitle": "راجع حسابات العملاء المحظورة واستعد الوصول عند الحاجة.",
+      "searchPlaceholder": "ابحث بالاسم أو الهاتف أو البريد...",
+      "tableTitle": "حسابات العملاء المحظورة",
+      "emptyTitle": "لا يوجد عملاء محظورون",
+      "emptyDescription": "سيظهر العملاء المحظورون هنا.",
+      "errorTitle": "تعذر تحميل العملاء المحظورين",
+      "filters": {
+        "all": "الكل",
+        "blocked": "محظور",
+        "active": "نشط"
+      },
+      "status": {
+        "blocked": "محظور",
+        "active": "نشط"
+      },
+      "table": {
+        "customer": "العميل",
+        "mobile": "الجوال",
+        "email": "البريد الإلكتروني",
+        "reason": "السبب",
+        "status": "الحالة",
+        "actions": "الإجراءات"
+      },
+      "actions": {
+        "block": "حظر",
+        "unblock": "إلغاء الحظر",
+        "retry": "حاول مرة أخرى"
+      },
+      "confirm": {
+        "unblockTitle": "إلغاء حظر العميل؟",
+        "unblockMessage": "هل تريد بالتأكيد إلغاء حظر {{name}}؟"
+      },
+      "toast": {
+        "blocked": "تم حظر العميل بنجاح",
+        "unblocked": "تم إلغاء حظر العميل بنجاح",
+        "failed": "فشل تحديث العميل"
+      }
+    },
+    "wallet": {
+      "title": "عملاء المحفظة",
+      "subtitle": "راقب أرصدة محافظ العملاء ونشاط المحفظة الأخير.",
+      "searchPlaceholder": "ابحث بالاسم أو الهاتف أو البريد...",
+      "tableTitle": "محافظ العملاء",
+      "emptyTitle": "لا يوجد عملاء محافظ",
+      "emptyDescription": "سيظهر العملاء المطابقون لفلتر المحفظة هنا.",
+      "errorTitle": "تعذر تحميل عملاء المحفظة",
+      "filters": {
+        "all": "الكل",
+        "positive": "رصيد موجب",
+        "zero": "رصيد صفر"
+      },
+      "summary": {
+        "customers": "العملاء",
+        "balance": "إجمالي الرصيد",
+        "credits": "الأرصدة الأخيرة",
+        "transactions": "المعاملات"
+      },
+      "table": {
+        "customer": "العميل",
+        "mobile": "الجوال",
+        "email": "البريد الإلكتروني",
+        "balance": "رصيد المحفظة",
+        "credits": "الأرصدة الأخيرة",
+        "transactions": "المعاملات"
+      },
+      "actions": {
+        "retry": "حاول مرة أخرى"
+      }
+    },
+    "walletTransactions": {
+      "title": "معاملات المحفظة",
+      "subtitle": "راجع أرصدة ومحافظ العملاء وحالة الدفع ومصادر المعاملات.",
+      "searchPlaceholder": "ابحث برقم المعاملة أو العميل أو المصدر أو الحالة...",
+      "tableTitle": "سجل معاملات المحفظة",
+      "emptyTitle": "لا توجد معاملات محفظة",
+      "emptyDescription": "ستظهر معاملات المحفظة المطابقة للفلاتر هنا.",
+      "errorTitle": "تعذر تحميل معاملات المحفظة",
+      "filters": {
+        "allTypes": "كل الأنواع",
+        "allStatuses": "كل الحالات"
+      },
+      "type": {
+        "credit": "ائتمان",
+        "debit": "خصم"
+      },
+      "status": {
+        "confirmed": "مؤكد",
+        "pending": "معلق",
+        "failed": "فشل"
+      },
+      "summary": {
+        "count": "المعاملات",
+        "credit": "إجمالي الائتمان",
+        "debit": "إجمالي الخصم",
+        "net": "الصافي"
+      },
+      "table": {
+        "transaction": "المعاملة",
+        "customer": "العميل",
+        "type": "النوع",
+        "amount": "المبلغ",
+        "status": "الحالة",
+        "source": "المصدر",
+        "date": "التاريخ"
+      },
+      "actions": {
+        "retry": "حاول مرة أخرى"
+      }
+    },
+    "verifyChat": {
+      "title": "تحقق من الدردشة",
+      "subtitle": "راجع أهلية العملاء للدردشة ووافق أو ارفض الوصول.",
+      "searchPlaceholder": "ابحث بالاسم أو الهاتف أو البريد...",
+      "tableTitle": "تحقق دردشة العملاء",
+      "emptyTitle": "لا توجد طلبات تحقق دردشة",
+      "emptyDescription": "سيظهر العملاء المطابقون لحالة تحقق الدردشة هنا.",
+      "errorTitle": "تعذر تحميل طلبات تحقق الدردشة",
+      "filters": {
+        "all": "الكل",
+        "pending": "معلق",
+        "verified": "موثق",
+        "rejected": "مرفوض"
+      },
+      "status": {
+        "pending": "معلق",
+        "verified": "موثق",
+        "rejected": "مرفوض"
+      },
+      "table": {
+        "customer": "العميل",
+        "mobile": "الجوال",
+        "email": "البريد الإلكتروني",
+        "totalChats": "إجمالي الدردشات",
+        "firstChat": "أول دردشة",
+        "status": "الحالة",
+        "actions": "الإجراءات"
+      },
+      "actions": {
+        "verify": "توثيق",
+        "reject": "رفض",
+        "retry": "حاول مرة أخرى"
+      },
+      "toast": {
+        "verified": "تم توثيق وصول الدردشة بنجاح",
+        "rejected": "تم رفض وصول الدردشة بنجاح",
+        "failed": "فشل تحديث وصول الدردشة"
+      }
+    }
+  },
+  "course": {
+    "categories": {
+      "title": "فئات الدورات",
+      "subtitle": "أنشئ وأدر فئات محتوى الدورات.",
+      "searchPlaceholder": "ابحث في فئات الدورات...",
+      "tableTitle": "قائمة فئات الدورات",
+      "emptyTitle": "لا توجد فئات دورات",
+      "emptyDescription": "أنشئ فئة دورة لتنظيم المحتوى التعليمي.",
+      "errorTitle": "تعذر تحميل فئات الدورات",
+      "filters": {
+        "all": "الكل",
+        "active": "نشط",
+        "inactive": "غير نشط"
+      },
+      "status": {
+        "active": "نشط",
+        "inactive": "غير نشط"
+      },
+      "table": {
+        "category": "الفئة",
+        "sortOrder": "ترتيب العرض",
+        "status": "الحالة",
+        "createdAt": "تاريخ الإنشاء",
+        "actions": "الإجراءات"
+      },
+      "form": {
+        "name": "الاسم",
+        "namePlaceholder": "اسم الفئة",
+        "description": "الوصف",
+        "descriptionPlaceholder": "وصف قصير للفئة",
+        "image": "رابط الصورة",
+        "imagePlaceholder": "https://example.com/category.png",
+        "sortOrder": "ترتيب العرض",
+        "status": "نشط",
+        "chooseImage": "اختر صورة",
+        "noImageSelected": "لم يتم اختيار صورة"
+      },
+      "modal": {
+        "createTitle": "إضافة فئة دورة",
+        "editTitle": "تعديل فئة الدورة"
+      },
+      "actions": {
+        "create": "إضافة فئة",
+        "edit": "تعديل",
+        "delete": "حذف",
+        "retry": "حاول مرة أخرى"
+      },
+      "confirm": {
+        "deleteTitle": "حذف الفئة؟",
+        "deleteMessage": "هل تريد بالتأكيد حذف {{name}}؟"
+      },
+      "toast": {
+        "created": "تم إنشاء فئة الدورة بنجاح",
+        "updated": "تم تحديث فئة الدورة بنجاح",
+        "deleted": "تم حذف فئة الدورة بنجاح",
+        "activated": "تم تفعيل فئة الدورة",
+        "deactivated": "تم تعطيل فئة الدورة",
+        "failed": "فشل إجراء فئة الدورة"
+      }
+    }
+  },
+  "generalTabs": {
+    "subtitle": "إدارة إعدادات التطبيق لهذا القسم.",
+    "sectionKey": "القسم",
+    "errorTitle": "تعذر تحميل الإعدادات",
+    "noFields": "لا توجد حقول لهذا القسم.",
+    "toast": {
+      "saved": "تم حفظ الإعدادات بنجاح",
+      "failed": "فشل حفظ الإعدادات"
+    },
+    "sections": {
+      "general": {
+        "title": "عام",
+        "subtitle": "Core platform URLs, currency, support, and feature toggles."
+      },
+      "payments": {
+        "title": "بوابة الدفع",
+        "subtitle": "Configure payment gateway toggles and credentials."
+      },
+      "social": {
+        "title": "روابط التواصل",
+        "subtitle": "Manage social and app store links."
+      },
+      "third_party": {
+        "title": "خدمات خارجية",
+        "subtitle": "Configure external services like maps, SMS, email, AI, Agora, and storage."
+      },
+      "master_image": {
+        "title": "الصور الرئيسية",
+        "subtitle": "Manage default image references used across the platform."
+      },
+      "customer_app": {
+        "title": "إعدادات تطبيق العميل",
+        "subtitle": "Manage customer mobile app version, links, and maintenance settings."
+      },
+      "astrologer_app": {
+        "title": "إعدادات تطبيق المنجم",
+        "subtitle": "Manage partner app version, links, and maintenance settings."
+      },
+      "website_config": {
+        "title": "إعدادات الويب",
+        "subtitle": "Manage website SEO and Firebase web configuration."
+      },
+      "financial": {
+        "title": "مالي",
+        "subtitle": "Manage commissions, tax percentages, minimum prices, and bonus values."
+      },
+      "developer": {
+        "title": "إعدادات المطور",
+        "subtitle": "Manage developer, Redis, Kafka, and operational integration settings."
+      }
+    },
+    "fields": {
+      "app_name": "App Name",
+      "app_short_name": "App Short Name",
+      "profession_title": "Profession Title",
+      "admin_url": "Admin Url",
+      "customer_url": "Customer Url",
+      "astrologer_url": "Astrologer Url",
+      "website_url": "Website Url",
+      "supportemail": "Supportemail",
+      "supportmobile": "Supportmobile",
+      "currency": "Currency",
+      "currency_symbol": "Currency Symbol",
+      "usd_to_inr": "Usd To Inr",
+      "enable_chat": "Enable Chat",
+      "enable_call": "Enable Call",
+      "enable_live": "Enable Live",
+      "enable_report": "Enable Report",
+      "enable_puja": "Enable Puja",
+      "enable_course": "Enable Course",
+      "enable_astroshop": "Enable Astroshop",
+      "first_chat_free": "First Chat Free",
+      "first_call_free": "First Call Free",
+      "website": "Website",
+      "youtube_link": "Youtube Link",
+      "facebook_link": "Facebook Link",
+      "instagram_link": "Instagram Link",
+      "linkedin_link": "Linkedin Link",
+      "pinterest_link": "Pinterest Link",
+      "telegram_link": "Telegram Link",
+      "twitter_link": "Twitter Link",
+      "apple_link": "Apple Link",
+      "logo": "Logo",
+      "default_profile": "Default Profile",
+      "astroshop": "Astroshop",
+      "daily_horoscope": "Daily Horoscope",
+      "kundali": "Kundali",
+      "kundali_matching": "Kundali Matching",
+      "today_panchang": "Today Panchang",
+      "category": "Category",
+      "blog": "Blog",
+      "puja": "Puja",
+      "course": "Course",
+      "notification": "Notification",
+      "chat_icon": "Chat Icon",
+      "call_icon": "Call Icon",
+      "report_icon": "Report Icon",
+      "appName": "AppName",
+      "appShortName": "AppShortName",
+      "appLogo": "AppLogo",
+      "androidversion": "Androidversion",
+      "iOSversion": "IOSversion",
+      "version": "Version",
+      "androidappurl": "Androidappurl",
+      "iosappurl": "Iosappurl",
+      "maintenance": "Maintenance",
+      "iOSmaintenance": "IOSmaintenance",
+      "force_update_android": "Force Update Android",
+      "force_update_ios": "Force Update Ios",
+      "website_name": "Website Name",
+      "meta_title": "Meta Title",
+      "meta_description": "Meta Description",
+      "website_logo": "Website Logo",
+      "favicon": "Favicon",
+      "firebase_api_key": "Firebase Api Key",
+      "firebase_auth_domain": "Firebase Auth Domain",
+      "firebase_project_id": "Firebase Project Id",
+      "firebase_storage_bucket": "Firebase Storage Bucket",
+      "firebase_messaging_sender_id": "Firebase Messaging Sender Id",
+      "firebase_app_id": "Firebase App Id",
+      "call_commission": "Call Commission",
+      "chat_commission": "Chat Commission",
+      "video_commission": "Video Commission",
+      "report_commission": "Report Commission",
+      "tds_percentage": "Tds Percentage",
+      "gst_percentage": "Gst Percentage",
+      "min_call_price": "Min Call Price",
+      "min_chat_price": "Min Chat Price",
+      "min_video_price": "Min Video Price",
+      "min_report_price": "Min Report Price",
+      "referral_bonus": "Referral Bonus",
+      "first_recharge_bonus": "First Recharge Bonus",
+      "gst_rate": "Gst Rate",
+      "razorpay.enabled": "Enabled",
+      "razorpay.key_id": "Key Id",
+      "razorpay.key_secret": "Key Secret",
+      "cashfree.enabled": "Enabled",
+      "cashfree.app_id": "App Id",
+      "cashfree.secret_key": "Secret Key",
+      "cashfree.mode": "Mode",
+      "phonepe.enabled": "Enabled",
+      "phonepe.merchant_id": "Merchant Id",
+      "phonepe.salt_key": "Salt Key",
+      "phonepe.mode": "Mode",
+      "stripe.enabled": "Enabled",
+      "stripe.publishable_key": "Publishable Key",
+      "stripe.secret_key": "Secret Key",
+      "paypal.enabled": "Enabled",
+      "paypal.client_id": "Client Id",
+      "paypal.client_secret": "Client Secret",
+      "bucket_provider": "Bucket Provider",
+      "agora.enabled": "Enabled",
+      "agora.app_id": "App Id",
+      "agora.key": "Key",
+      "agora.secret": "Secret",
+      "agora.certificate": "Certificate",
+      "gmap.api_key": "Api Key",
+      "gmap.android_key": "Android Key",
+      "gmap.ios_key": "Ios Key",
+      "shiprocket.enabled": "Enabled",
+      "shiprocket.email": "Email",
+      "shiprocket.password": "Password",
+      "sms.enabled": "Enabled",
+      "sms.provider": "Provider",
+      "sms.auth_key": "Auth Key",
+      "sms.sender_id": "Sender Id",
+      "email.enabled": "Enabled",
+      "email.provider": "Provider",
+      "email.host": "Host",
+      "email.port": "Port",
+      "email.user": "User",
+      "email.pass": "Pass",
+      "ai.enabled": "Enabled",
+      "ai.provider": "Provider",
+      "ai.openai_api_key": "Openai Api Key",
+      "ai.gemini_api_key": "Gemini Api Key",
+      "ai.claude_api_key": "Claude Api Key",
+      "secret_token": "Secret Token",
+      "image_url": "Image Url",
+      "callback_url": "Callback Url",
+      "redis_env": "Redis Env",
+      "redis_url": "Redis Url",
+      "redis_host": "Redis Host",
+      "redis_port": "Redis Port",
+      "redis_provider": "Redis Provider",
+      "KAFKA_BROKER": "KAFKA BROKER",
+      "KAFKA_CLIENT_ID": "KAFKA CLIENT ID",
+      "slack_webhook_url": "Slack Webhook Url",
+      "jira_base_url": "Jira Base Url",
+      "pagerduty_routing_key": "Pagerduty Routing Key"
+    }
+  }
+}

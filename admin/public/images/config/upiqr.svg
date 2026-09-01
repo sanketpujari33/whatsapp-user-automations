@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#0F172A"/>
+  <!-- QR Code motif -->
+  <rect x="32" y="32" width="24" height="24" rx="4" fill="#FFFFFF"/>
+  <rect x="38" y="38" width="12" height="12" rx="2" fill="#0F172A"/>
+  <rect x="72" y="32" width="24" height="24" rx="4" fill="#FFFFFF"/>
+  <rect x="78" y="38" width="12" height="12" rx="2" fill="#0F172A"/>
+  <rect x="32" y="72" width="24" height="24" rx="4" fill="#FFFFFF"/>
+  <rect x="38" y="78" width="12" height="12" rx="2" fill="#0F172A"/>
+  <rect x="72" y="72" width="10" height="10" rx="2" fill="#22C55E"/>
+  <rect x="86" y="72" width="10" height="24" rx="2" fill="#22C55E"/>
+  <text x="64" y="112" font-family="-apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="12" font-weight="900" text-anchor="middle" fill="#FFFFFF">UPI QR</text>
+</svg>

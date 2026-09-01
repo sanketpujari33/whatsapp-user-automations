@@ -1,0 +1,887 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "Dashboard",
+      "home": "Home"
+    },
+    "settings": {
+      "settings": "Settings",
+      "general": "General",
+      "appearance": "Appearance",
+      "title": "Settings"
+    },
+    "astroAdmin": {
+      "dashboard": "Dashboard",
+      "customers": "Customers",
+      "astrologers": "Astrologers",
+      "content": "Content",
+      "aiCounsellor": "AI Counsellor",
+      "astroshop": "Astroshop",
+      "horoscope": "Horoscope",
+      "pujas": "Pujas",
+      "courses": "Courses",
+      "earning": "Earnings",
+      "reports": "Reports",
+      "support": "Support",
+      "generalSettings": "General Settings",
+      "masterSettings": "Master Settings",
+      "offers": "Offers",
+      "profitLoss": "Profit / Loss",
+      "promoter": "Promoter",
+      "receiveFund": "Receive Fund",
+      "dataMonitoring": "Data Monitoring",
+      "deadReport": "Dead Reports",
+      "teamManagement": "Team Management"
+    },
+    "customer": {
+      "all": "All Customers",
+      "blocked": "Blocked Customers",
+      "verify": "Pending Verification",
+      "wallet": "Wallet Customers",
+      "walletTxn": "Wallet Transactions",
+      "verifyChat": "Verify Chat",
+      "verifyLive": "Verify Live",
+      "verifyVideo": "Verify Video",
+      "blockedChat": "Blocked Chat",
+      "blockedLive": "Blocked Live",
+      "blockedVideo": "Blocked Video"
+    },
+    "astrologer": {
+      "all": "All Astrologers",
+      "pending": "Pending Requests",
+      "rejected": "Rejected Requests",
+      "blocked": "Blocked Astrologers",
+      "boost": "Profile Boost Settings",
+      "boostHistory": "Boost History",
+      "commission": "Commissions",
+      "assistant": "Assistants",
+      "categories": "Categories",
+      "skills": "Skills",
+      "gifts": "Gifts",
+      "documents": "Documents"
+    },
+    "content": {
+      "blogs": "Blogs",
+      "news": "News",
+      "videos": "Videos",
+      "stories": "Stories",
+      "banners": "Banners",
+      "notifications": "Notifications",
+      "emailTemplates": "Email Templates",
+      "pages": "Pages"
+    },
+    "aicounsellor": {
+      "manage": "Manage AI Counsellor",
+      "history": "AI Sessions"
+    },
+    "astroshop": {
+      "products": "Products",
+      "categories": "Categories",
+      "orders": "Orders",
+      "recommend": "Recommendations"
+    },
+    "horoscope": {
+      "daily": "Daily Horoscope",
+      "weekly": "Weekly Horoscope",
+      "yearly": "Yearly Horoscope"
+    },
+    "pujas": {
+      "categories": "Categories",
+      "subcategories": "Sub Categories",
+      "packages": "Packages",
+      "puja": "Pujas",
+      "faqs": "FAQs",
+      "orders": "Orders",
+      "recommend": "Recommendations",
+      "astrologer": "Astrologer Puja"
+    },
+    "courses": {
+      "categories": "Categories",
+      "course": "Courses",
+      "chapters": "Chapters",
+      "orders": "Orders"
+    },
+    "finance": {
+      "earnings": "Admin Earnings",
+      "withdrawals": "Withdrawal Requests",
+      "recharge": "Recharge History",
+      "receiveFund": "Receive Fund"
+    },
+    "reports": {
+      "calls": "Call Reports",
+      "chats": "Chat Reports",
+      "partnerWise": "Partner Wise Earnings",
+      "requests": "Report Requests",
+      "kundali": "Kundali Reports",
+      "astromall": "Astromall Reports",
+      "puja": "Puja Reports",
+      "tds": "TDS Reports",
+      "gst": "GST Reports"
+    },
+    "support": {
+      "tickets": "Tickets",
+      "aichat": "AI Chat",
+      "reports": "Support Reports",
+      "contact": "Contact Form",
+      "feedback": "Feedback"
+    },
+    "receivefund": {
+      "requests": "Recharge Requests",
+      "withdrawal": "Withdrawal Amount",
+      "beneficiaries": "Beneficiaries",
+      "withdrawRequests": "Withdrawal Requests"
+    },
+    "profitloss": {
+      "all": "All Reports",
+      "loss": "Loss Reports",
+      "profit": "Profit Reports"
+    },
+    "promoter": {
+      "all": "All Reports",
+      "loss": "Loss Reports",
+      "profit": "Profit Reports"
+    },
+    "offers": {
+      "all": "All Offers",
+      "report": "Offers Report",
+      "referral": "Referrals",
+      "referralReport": "Referral Reports"
+    },
+    "master": {
+      "avatar": "Customer Avatar",
+      "horoscopeSigns": "Horoscope Signs",
+      "reportType": "Report Types",
+      "recharge": "Recharge Amounts",
+      "kundaliPrice": "Kundali Prices",
+      "referral": "Referral Settings",
+      "trainingVideo": "Training Videos"
+    },
+    "general": {
+      "general": "General",
+      "masterImage": "Master Image",
+      "customerApp": "Customer App",
+      "astrologerApp": "Astrologer App",
+      "webApp": "Web App",
+      "social": "Social Links",
+      "payments": "Payment Gateway",
+      "financial": "Financial",
+      "thirdParty": "Third Party",
+      "developer": "Developer"
+    },
+    "datamont": {
+      "chats": "Chats",
+      "calls": "Calls",
+      "messages": "Messages",
+      "aiChats": "AI Chats",
+      "live": "Live Consultations",
+      "video": "Video Consultations",
+      "livePuja": "Live Puja",
+      "horoscopes": "Horoscopes",
+      "blockKeywords": "Block Keywords"
+    },
+    "deadreport": {
+      "all": "All Dead Reports",
+      "history": "History"
+    },
+    "team": {
+      "list": "Team List",
+      "roles": "Roles & Permissions",
+      "manage": "Team Management",
+      "pages": "Page Management"
+    },
+    "fundManagement": {
+      "title": "Fund Management",
+      "beneficiaries": "Beneficiaries",
+      "addBeneficiary": "Add Beneficiary",
+      "viewBeneficiaries": "View Beneficiaries",
+      "withdrawRequests": "Withdraw Requests",
+      "payoutLogs": "Payout Logs",
+      "pointSystem": "Point System"
+    },
+    "integrationHub": {
+      "title": "Integration Hub",
+      "agora": {
+        "dashboard": "Agora Dashboard",
+        "token": "Agora Token"
+      },
+      "kafka": {
+        "dashboard": "Kafka Dashboard",
+        "topics": "Topics",
+        "producer": "Producer",
+        "consumer": "Consumer"
+      },
+      "redis": {
+        "dashboard": "Redis Dashboard",
+        "keys": "Keys",
+        "command": "Command"
+      },
+      "payments": {
+        "gateways": "Payment Gateways",
+        "test": "Test Payments",
+        "webhook": "Webhooks"
+      },
+      "notifications": {
+        "push": "Push Notifications",
+        "email": "Email Notifications",
+        "sms": "SMS Notifications",
+        "broadcast": "Broadcast"
+      },
+      "storage": {
+        "dashboard": "Storage Dashboard",
+        "upload": "Upload"
+      },
+      "system": {
+        "health": "System Health",
+        "config": "System Config",
+        "logs": "System Logs"
+      }
+    }
+  },
+  "common": {
+    "save": "Save",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "loading": "Loading...",
+    "noData": "No data found",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "reset": "Reset",
+    "close": "Close",
+    "confirm": "Confirm",
+    "actions": "Actions",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "clear": "Clear",
+    "apply": "Apply",
+    "refresh": "Refresh",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "print": "Print",
+    "copy": "Copy",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Information"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "welcomeBack": "Welcome Back",
+    "signInToContinue": "Please sign in to continue",
+    "invalidCredentials": "Invalid email or password",
+    "sessionExpired": "Session expired. Please login again.",
+    "otp": "OTP Code"
+  },
+  "dashboard": {
+    "totalCustomers": "総顧客数",
+    "totalAstrologers": "総占星術師数",
+    "totalRevenue": "総収益",
+    "monthlyEarnings": "月次収益レポート",
+    "topAstrologers": "上位の占星術師",
+    "pendingRequests": "保留中の承認",
+    "totalOrders": "総注文数",
+    "todayCalls": "通話",
+    "todayChats": "チャット",
+    "title": "ダッシュボード",
+    "subtitle": "占星術プラットフォームのリアルタイム概要",
+    "live": "ライブ",
+    "actions": {
+      "retry": "再試行"
+    },
+    "cards": {
+      "callRequest": "通話リクエスト",
+      "chatRequest": "チャットリクエスト",
+      "reportRequest": "レポートリクエスト",
+      "totalEarning": "総収益",
+      "totalCustomer": "総顧客数",
+      "totalAstrologer": "総占星術師数",
+      "totalOrders": "総注文数",
+      "totalStories": "総ストーリー数",
+      "totalPujaOrders": "プージャ注文",
+      "totalCourseOrders": "コース注文",
+      "activeCustomers": "アクティブ顧客",
+      "activeAstrologers": "アクティブ占星術師"
+    },
+    "charts": {
+      "monthlyEarningTitle": "月次収益レポート",
+      "monthlyEarningDescription": "過去12か月の完了済みウォレット入金",
+      "monthlyRequestsTitle": "月次リクエスト",
+      "monthlyRequestsDescription": "過去12か月の通話とチャットのリクエスト数"
+    },
+    "series": {
+      "earnings": "収益",
+      "calls": "通話",
+      "chats": "チャット"
+    },
+    "tables": {
+      "topAstrologers": "上位の占星術師",
+      "unverifiedAstrologers": "未確認の占星術師",
+      "byConsultations": "リクエスト順",
+      "needsReview": "確認が必要"
+    },
+    "table": {
+      "astrologer": "占星術師",
+      "skills": "スキル",
+      "languages": "言語",
+      "requests": "リクエスト"
+    },
+    "states": {
+      "errorTitle": "ダッシュボードを読み込めません",
+      "noEarningTitle": "まだ収益がありません",
+      "noEarningDescription": "完了済み入金があると月次収益データがここに表示されます。",
+      "noRequestsTitle": "まだリクエストがありません",
+      "noRequestsDescription": "通話またはチャットが作成されると月次傾向がここに表示されます。",
+      "noTopAstrologersTitle": "上位占星術師はまだいません",
+      "noTopAstrologersDescription": "リクエストを受け始めると上位者がここに表示されます。",
+      "noUnverifiedTitle": "保留中の占星術師はいません",
+      "noUnverifiedDescription": "確認が必要な新しい申請がここに表示されます。"
+    },
+    "platformHealth": {
+      "title": "プラットフォーム状態",
+      "activeCustomers": "アクティブ顧客",
+      "activeAstrologers": "アクティブ占星術師",
+      "pendingApprovals": "保留中の承認"
+    },
+    "quickActions": {
+      "title": "クイック操作",
+      "addAstrologer": "新しい占星術師を追加",
+      "sendNotification": "通知を送信",
+      "pendingRequests": "保留中のリクエストを表示",
+      "approveWithdrawals": "出金を承認",
+      "checkReports": "レポートを確認"
+    },
+    "data": {
+      "stats": "Dashboard Stats",
+      "callRequest": "通話リクエスト",
+      "chatRequest": "チャットリクエスト",
+      "reportRequest": "レポートリクエスト",
+      "totalEarning": "総収益",
+      "totalCustomer": "総顧客数",
+      "totalAstrologer": "総占星術師数",
+      "totalOrders": "総注文数",
+      "totalStories": "総ストーリー数",
+      "totalPujaOrders": "プージャ注文",
+      "totalCourseOrders": "コース注文",
+      "activeCustomers": "アクティブ顧客",
+      "activeAstrologers": "アクティブ占星術師",
+      "monthlyEarning": "月次収益レポート",
+      "monthlyRequests": "月次リクエスト",
+      "topAstrologers": "上位の占星術師",
+      "unverifiedAstrologers": "未確認の占星術師",
+      "month": "Month",
+      "earning": "Earning",
+      "amount": "Amount",
+      "calls": "通話",
+      "chats": "チャット",
+      "astrologer": "占星術師",
+      "name": "Name",
+      "mobile": "Mobile",
+      "image": "Image",
+      "skills": "スキル",
+      "languages": "言語",
+      "rating": "Rating",
+      "totalCallRequest": "Total Call Requests",
+      "totalChatRequest": "Total Chat Requests",
+      "totalRequests": "Total Requests",
+      "createdAt": "Created At",
+      "pendingApprovals": "保留中の承認",
+      "verified": "Verified",
+      "pending": "Pending",
+      "notAvailable": "Not Available"
+    },
+    "datasets": {
+      "stats": "Dashboard Stats",
+      "monthlyEarning": "月次収益レポート",
+      "monthlyRequests": "月次リクエスト",
+      "topAstrologers": "上位の占星術師",
+      "unverifiedAstrologers": "未確認の占星術師"
+    },
+    "apiMessages": {
+      "loadingStats": "Dashboard Stats...",
+      "loadingMonthlyEarning": "月次収益レポート...",
+      "loadingMonthlyRequests": "月次リクエスト...",
+      "loadingTopAstrologers": "上位の占星術師...",
+      "loadingUnverifiedAstrologers": "未確認の占星術師...",
+      "statsLoaded": "Dashboard Stats",
+      "dataUnavailable": "Not Available"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "minLength": "Minimum {{count}} characters",
+    "maxLength": "Maximum {{count}} characters",
+    "passwordMatch": "Passwords must match",
+    "invalidPhone": "Please enter a valid phone number"
+  },
+  "notification": {
+    "created": "Created successfully",
+    "updated": "Updated successfully",
+    "deleted": "Deleted successfully",
+    "confirmDelete": "Are you sure you want to delete this?",
+    "operationFailed": "Operation failed",
+    "noChanges": "No changes detected"
+  },
+  "customer": {
+    "verifyReject": {
+      "title": "顧客の確認 / 拒否",
+      "subtitle": "保留中の顧客プロフィールを確認し、承認または拒否します。",
+      "searchPlaceholder": "名前、電話、メールで検索...",
+      "tableTitle": "顧客確認リクエスト",
+      "emptyTitle": "確認リクエストがありません",
+      "emptyDescription": "選択した確認状態の顧客がここに表示されます。",
+      "errorTitle": "確認リクエストを読み込めません",
+      "filters": {
+        "all": "すべて",
+        "pending": "保留中",
+        "verified": "確認済み",
+        "rejected": "拒否済み"
+      },
+      "status": {
+        "pending": "保留中",
+        "verified": "確認済み",
+        "rejected": "拒否済み"
+      },
+      "table": {
+        "customer": "顧客",
+        "mobile": "携帯",
+        "email": "メール",
+        "registeredAt": "登録日",
+        "status": "状態",
+        "actions": "操作"
+      },
+      "actions": {
+        "verify": "確認",
+        "reject": "拒否",
+        "retry": "再試行"
+      },
+      "toast": {
+        "verified": "顧客を確認しました",
+        "rejected": "顧客を拒否しました",
+        "failed": "顧客の更新に失敗しました"
+      }
+    },
+    "blocked": {
+      "title": "ブロックされた顧客",
+      "subtitle": "ブロックされた顧客アカウントを確認し、必要に応じてアクセスを復元します。",
+      "searchPlaceholder": "名前、電話、メールで検索...",
+      "tableTitle": "ブロック顧客アカウント",
+      "emptyTitle": "ブロックされた顧客はいません",
+      "emptyDescription": "アクセスがブロックされた顧客がここに表示されます。",
+      "errorTitle": "ブロック顧客を読み込めません",
+      "filters": {
+        "all": "すべて",
+        "blocked": "ブロック",
+        "active": "アクティブ"
+      },
+      "status": {
+        "blocked": "ブロック",
+        "active": "アクティブ"
+      },
+      "table": {
+        "customer": "顧客",
+        "mobile": "携帯",
+        "email": "メール",
+        "reason": "理由",
+        "status": "状態",
+        "actions": "操作"
+      },
+      "actions": {
+        "block": "ブロック",
+        "unblock": "解除",
+        "retry": "再試行"
+      },
+      "confirm": {
+        "unblockTitle": "顧客のブロックを解除しますか？",
+        "unblockMessage": "{{name}} のブロックを解除してもよろしいですか？"
+      },
+      "toast": {
+        "blocked": "顧客をブロックしました",
+        "unblocked": "顧客のブロックを解除しました",
+        "failed": "顧客の更新に失敗しました"
+      }
+    },
+    "wallet": {
+      "title": "ウォレット顧客",
+      "subtitle": "顧客のウォレット残高と最近の活動を監視します。",
+      "searchPlaceholder": "名前、電話、メールで検索...",
+      "tableTitle": "顧客ウォレット",
+      "emptyTitle": "ウォレット顧客が見つかりません",
+      "emptyDescription": "選択したフィルターに一致する顧客がここに表示されます。",
+      "errorTitle": "ウォレット顧客を読み込めません",
+      "filters": {
+        "all": "すべて",
+        "positive": "プラス残高",
+        "zero": "ゼロ残高"
+      },
+      "summary": {
+        "customers": "顧客",
+        "balance": "合計残高",
+        "credits": "最近の入金",
+        "transactions": "取引"
+      },
+      "table": {
+        "customer": "顧客",
+        "mobile": "携帯",
+        "email": "メール",
+        "balance": "ウォレット残高",
+        "credits": "最近の入金",
+        "transactions": "取引"
+      },
+      "actions": {
+        "retry": "再試行"
+      }
+    },
+    "walletTransactions": {
+      "title": "ウォレット取引",
+      "subtitle": "顧客ウォレットの入金、出金、支払い状態、取引元を確認します。",
+      "searchPlaceholder": "取引ID、顧客、元、状態で検索...",
+      "tableTitle": "ウォレット取引履歴",
+      "emptyTitle": "ウォレット取引が見つかりません",
+      "emptyDescription": "選択したフィルターに一致する取引がここに表示されます。",
+      "errorTitle": "ウォレット取引を読み込めません",
+      "filters": {
+        "allTypes": "すべての種類",
+        "allStatuses": "すべての状態"
+      },
+      "type": {
+        "credit": "入金",
+        "debit": "出金"
+      },
+      "status": {
+        "confirmed": "確認済み",
+        "pending": "保留中",
+        "failed": "失敗"
+      },
+      "summary": {
+        "count": "取引",
+        "credit": "総入金",
+        "debit": "総出金",
+        "net": "純額"
+      },
+      "table": {
+        "transaction": "取引",
+        "customer": "顧客",
+        "type": "種類",
+        "amount": "金額",
+        "status": "状態",
+        "source": "元",
+        "date": "日付"
+      },
+      "actions": {
+        "retry": "再試行"
+      }
+    },
+    "verifyChat": {
+      "title": "チャット確認",
+      "subtitle": "顧客のチャット利用資格を確認し、承認または拒否します。",
+      "searchPlaceholder": "名前、電話、メールで検索...",
+      "tableTitle": "顧客チャット確認",
+      "emptyTitle": "チャット確認リクエストがありません",
+      "emptyDescription": "選択したチャット確認状態の顧客がここに表示されます。",
+      "errorTitle": "チャット確認リクエストを読み込めません",
+      "filters": {
+        "all": "すべて",
+        "pending": "保留中",
+        "verified": "確認済み",
+        "rejected": "拒否済み"
+      },
+      "status": {
+        "pending": "保留中",
+        "verified": "確認済み",
+        "rejected": "拒否済み"
+      },
+      "table": {
+        "customer": "顧客",
+        "mobile": "携帯",
+        "email": "メール",
+        "totalChats": "合計チャット",
+        "firstChat": "初回チャット",
+        "status": "状態",
+        "actions": "操作"
+      },
+      "actions": {
+        "verify": "確認",
+        "reject": "拒否",
+        "retry": "再試行"
+      },
+      "toast": {
+        "verified": "チャットアクセスを確認しました",
+        "rejected": "チャットアクセスを拒否しました",
+        "failed": "チャットアクセスの更新に失敗しました"
+      }
+    }
+  },
+  "course": {
+    "categories": {
+      "title": "コースカテゴリ",
+      "subtitle": "コースコンテンツのカテゴリを作成・管理します。",
+      "searchPlaceholder": "コースカテゴリを検索...",
+      "tableTitle": "コースカテゴリ一覧",
+      "emptyTitle": "コースカテゴリが見つかりません",
+      "emptyDescription": "学習コンテンツを整理するカテゴリを作成してください。",
+      "errorTitle": "コースカテゴリを読み込めません",
+      "filters": {
+        "all": "すべて",
+        "active": "有効",
+        "inactive": "無効"
+      },
+      "status": {
+        "active": "有効",
+        "inactive": "無効"
+      },
+      "table": {
+        "category": "カテゴリ",
+        "sortOrder": "並び順",
+        "status": "状態",
+        "createdAt": "作成日",
+        "actions": "操作"
+      },
+      "form": {
+        "name": "名前",
+        "namePlaceholder": "カテゴリ名",
+        "description": "説明",
+        "descriptionPlaceholder": "短い説明",
+        "image": "画像URL",
+        "imagePlaceholder": "https://example.com/category.png",
+        "sortOrder": "並び順",
+        "status": "有効",
+        "chooseImage": "画像を選択",
+        "noImageSelected": "画像が選択されていません"
+      },
+      "modal": {
+        "createTitle": "コースカテゴリを追加",
+        "editTitle": "コースカテゴリを編集"
+      },
+      "actions": {
+        "create": "カテゴリ追加",
+        "edit": "編集",
+        "delete": "削除",
+        "retry": "再試行"
+      },
+      "confirm": {
+        "deleteTitle": "カテゴリを削除しますか？",
+        "deleteMessage": "{{name}} を削除してもよろしいですか？"
+      },
+      "toast": {
+        "created": "コースカテゴリを作成しました",
+        "updated": "コースカテゴリを更新しました",
+        "deleted": "コースカテゴリを削除しました",
+        "activated": "コースカテゴリを有効化しました",
+        "deactivated": "コースカテゴリを無効化しました",
+        "failed": "カテゴリ操作に失敗しました"
+      }
+    }
+  },
+  "generalTabs": {
+    "subtitle": "Manage application configuration for this section.",
+    "sectionKey": "Section",
+    "errorTitle": "Unable to load configuration",
+    "noFields": "No fields are configured for this section.",
+    "toast": {
+      "saved": "Configuration saved successfully",
+      "failed": "Configuration save failed"
+    },
+    "sections": {
+      "general": {
+        "title": "General",
+        "subtitle": "Core platform URLs, currency, support, and feature toggles."
+      },
+      "payments": {
+        "title": "Payment Gateway",
+        "subtitle": "Configure payment gateway toggles and credentials."
+      },
+      "social": {
+        "title": "Social Links",
+        "subtitle": "Manage social and app store links."
+      },
+      "third_party": {
+        "title": "Third Party Packages",
+        "subtitle": "Configure external services like maps, SMS, email, AI, Agora, and storage."
+      },
+      "master_image": {
+        "title": "Master Images",
+        "subtitle": "Manage default image references used across the platform."
+      },
+      "customer_app": {
+        "title": "Customer App Settings",
+        "subtitle": "Manage customer mobile app version, links, and maintenance settings."
+      },
+      "astrologer_app": {
+        "title": "Astrologer App Settings",
+        "subtitle": "Manage partner app version, links, and maintenance settings."
+      },
+      "website_config": {
+        "title": "Web App Settings",
+        "subtitle": "Manage website SEO and Firebase web configuration."
+      },
+      "financial": {
+        "title": "Financial",
+        "subtitle": "Manage commissions, tax percentages, minimum prices, and bonus values."
+      },
+      "developer": {
+        "title": "Developer Settings",
+        "subtitle": "Manage developer, Redis, Kafka, and operational integration settings."
+      }
+    },
+    "fields": {
+      "app_name": "App Name",
+      "app_short_name": "App Short Name",
+      "profession_title": "Profession Title",
+      "admin_url": "Admin Url",
+      "customer_url": "Customer Url",
+      "astrologer_url": "Astrologer Url",
+      "website_url": "Website Url",
+      "supportemail": "Supportemail",
+      "supportmobile": "Supportmobile",
+      "currency": "Currency",
+      "currency_symbol": "Currency Symbol",
+      "usd_to_inr": "Usd To Inr",
+      "enable_chat": "Enable Chat",
+      "enable_call": "Enable Call",
+      "enable_live": "Enable Live",
+      "enable_report": "Enable Report",
+      "enable_puja": "Enable Puja",
+      "enable_course": "Enable Course",
+      "enable_astroshop": "Enable Astroshop",
+      "first_chat_free": "First Chat Free",
+      "first_call_free": "First Call Free",
+      "website": "Website",
+      "youtube_link": "Youtube Link",
+      "facebook_link": "Facebook Link",
+      "instagram_link": "Instagram Link",
+      "linkedin_link": "Linkedin Link",
+      "pinterest_link": "Pinterest Link",
+      "telegram_link": "Telegram Link",
+      "twitter_link": "Twitter Link",
+      "apple_link": "Apple Link",
+      "logo": "Logo",
+      "default_profile": "Default Profile",
+      "astroshop": "Astroshop",
+      "daily_horoscope": "Daily Horoscope",
+      "kundali": "Kundali",
+      "kundali_matching": "Kundali Matching",
+      "today_panchang": "Today Panchang",
+      "category": "Category",
+      "blog": "Blog",
+      "puja": "Puja",
+      "course": "Course",
+      "notification": "Notification",
+      "chat_icon": "Chat Icon",
+      "call_icon": "Call Icon",
+      "report_icon": "Report Icon",
+      "appName": "AppName",
+      "appShortName": "AppShortName",
+      "appLogo": "AppLogo",
+      "androidversion": "Androidversion",
+      "iOSversion": "IOSversion",
+      "version": "Version",
+      "androidappurl": "Androidappurl",
+      "iosappurl": "Iosappurl",
+      "maintenance": "Maintenance",
+      "iOSmaintenance": "IOSmaintenance",
+      "force_update_android": "Force Update Android",
+      "force_update_ios": "Force Update Ios",
+      "website_name": "Website Name",
+      "meta_title": "Meta Title",
+      "meta_description": "Meta Description",
+      "website_logo": "Website Logo",
+      "favicon": "Favicon",
+      "firebase_api_key": "Firebase Api Key",
+      "firebase_auth_domain": "Firebase Auth Domain",
+      "firebase_project_id": "Firebase Project Id",
+      "firebase_storage_bucket": "Firebase Storage Bucket",
+      "firebase_messaging_sender_id": "Firebase Messaging Sender Id",
+      "firebase_app_id": "Firebase App Id",
+      "call_commission": "Call Commission",
+      "chat_commission": "Chat Commission",
+      "video_commission": "Video Commission",
+      "report_commission": "Report Commission",
+      "tds_percentage": "Tds Percentage",
+      "gst_percentage": "Gst Percentage",
+      "min_call_price": "Min Call Price",
+      "min_chat_price": "Min Chat Price",
+      "min_video_price": "Min Video Price",
+      "min_report_price": "Min Report Price",
+      "referral_bonus": "Referral Bonus",
+      "first_recharge_bonus": "First Recharge Bonus",
+      "gst_rate": "Gst Rate",
+      "razorpay.enabled": "Enabled",
+      "razorpay.key_id": "Key Id",
+      "razorpay.key_secret": "Key Secret",
+      "cashfree.enabled": "Enabled",
+      "cashfree.app_id": "App Id",
+      "cashfree.secret_key": "Secret Key",
+      "cashfree.mode": "Mode",
+      "phonepe.enabled": "Enabled",
+      "phonepe.merchant_id": "Merchant Id",
+      "phonepe.salt_key": "Salt Key",
+      "phonepe.mode": "Mode",
+      "stripe.enabled": "Enabled",
+      "stripe.publishable_key": "Publishable Key",
+      "stripe.secret_key": "Secret Key",
+      "paypal.enabled": "Enabled",
+      "paypal.client_id": "Client Id",
+      "paypal.client_secret": "Client Secret",
+      "bucket_provider": "Bucket Provider",
+      "agora.enabled": "Enabled",
+      "agora.app_id": "App Id",
+      "agora.key": "Key",
+      "agora.secret": "Secret",
+      "agora.certificate": "Certificate",
+      "gmap.api_key": "Api Key",
+      "gmap.android_key": "Android Key",
+      "gmap.ios_key": "Ios Key",
+      "shiprocket.enabled": "Enabled",
+      "shiprocket.email": "Email",
+      "shiprocket.password": "Password",
+      "sms.enabled": "Enabled",
+      "sms.provider": "Provider",
+      "sms.auth_key": "Auth Key",
+      "sms.sender_id": "Sender Id",
+      "email.enabled": "Enabled",
+      "email.provider": "Provider",
+      "email.host": "Host",
+      "email.port": "Port",
+      "email.user": "User",
+      "email.pass": "Pass",
+      "ai.enabled": "Enabled",
+      "ai.provider": "Provider",
+      "ai.openai_api_key": "Openai Api Key",
+      "ai.gemini_api_key": "Gemini Api Key",
+      "ai.claude_api_key": "Claude Api Key",
+      "secret_token": "Secret Token",
+      "image_url": "Image Url",
+      "callback_url": "Callback Url",
+      "redis_env": "Redis Env",
+      "redis_url": "Redis Url",
+      "redis_host": "Redis Host",
+      "redis_port": "Redis Port",
+      "redis_provider": "Redis Provider",
+      "KAFKA_BROKER": "KAFKA BROKER",
+      "KAFKA_CLIENT_ID": "KAFKA CLIENT ID",
+      "slack_webhook_url": "Slack Webhook Url",
+      "jira_base_url": "Jira Base Url",
+      "pagerduty_routing_key": "Pagerduty Routing Key"
+    }
+  }
+}

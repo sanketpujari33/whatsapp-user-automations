@@ -1,0 +1,887 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "डैशबोर्ड",
+      "home": "होम"
+    },
+    "settings": {
+      "settings": "सेटिंग्स",
+      "general": "सामान्य",
+      "appearance": "दिखावट",
+      "title": "सेटिंग्स"
+    },
+    "astroAdmin": {
+      "dashboard": "डैशबोर्ड",
+      "customers": "ग्राहक",
+      "astrologers": "ज्योतिषी",
+      "content": "सामग्री",
+      "aiCounsellor": "AI परामर्शदाता",
+      "astroshop": "एस्ट्रोशॉप",
+      "horoscope": "कुंडली",
+      "pujas": "पूजा",
+      "courses": "कोर्स",
+      "earning": "कमाई",
+      "reports": "रिपोर्ट",
+      "support": "सहायता",
+      "generalSettings": "सामान्य सेटिंग्स",
+      "masterSettings": "मास्टर सेटिंग्स",
+      "offers": "ऑफ़र",
+      "profitLoss": "लाभ / हानि",
+      "promoter": "प्रमोटर",
+      "receiveFund": "फंड प्राप्त करें",
+      "dataMonitoring": "डेटा मॉनिटरिंग",
+      "deadReport": "डेड रिपोर्ट",
+      "teamManagement": "टीम प्रबंधन"
+    },
+    "customer": {
+      "all": "सभी ग्राहक",
+      "blocked": "ब्लॉक ग्राहक",
+      "verify": "लंबित सत्यापन",
+      "wallet": "वॉलेट ग्राहक",
+      "walletTxn": "वॉलेट लेन-देन",
+      "verifyChat": "चैट सत्यापित करें",
+      "verifyLive": "लाइव सत्यापित करें",
+      "verifyVideo": "वीडियो सत्यापित करें",
+      "blockedChat": "ब्लॉक चैट",
+      "blockedLive": "ब्लॉक लाइव",
+      "blockedVideo": "ब्लॉक वीडियो"
+    },
+    "astrologer": {
+      "all": "सभी ज्योतिषी",
+      "pending": "लंबित अनुरोध",
+      "rejected": "अस्वीकृत अनुरोध",
+      "blocked": "ब्लॉक ज्योतिषी",
+      "boost": "प्रोफ़ाइल बूस्ट सेटिंग्स",
+      "boostHistory": "बूस्ट हिस्ट्री",
+      "commission": "कमीशन",
+      "assistant": "सहायक",
+      "categories": "श्रेणियाँ",
+      "skills": "कौशल",
+      "gifts": "उपहार",
+      "documents": "दस्तावेज़"
+    },
+    "content": {
+      "blogs": "ब्लॉग",
+      "news": "समाचार",
+      "videos": "वीडियो",
+      "stories": "कहानियाँ",
+      "banners": "बैनर",
+      "notifications": "सूचनाएँ",
+      "emailTemplates": "ईमेल टेम्पलेट",
+      "pages": "पेज"
+    },
+    "aicounsellor": {
+      "manage": "AI परामर्शदाता प्रबंधित करें",
+      "history": "AI सत्र"
+    },
+    "astroshop": {
+      "products": "उत्पाद",
+      "categories": "श्रेणियाँ",
+      "orders": "ऑर्डर",
+      "recommend": "अनुशंसाएँ"
+    },
+    "horoscope": {
+      "daily": "दैनिक कुंडली",
+      "weekly": "साप्ताहिक कुंडली",
+      "yearly": "वार्षिक कुंडली"
+    },
+    "pujas": {
+      "categories": "श्रेणियाँ",
+      "subcategories": "उप-श्रेणियाँ",
+      "packages": "पैकेज",
+      "puja": "पूजा",
+      "faqs": "FAQ",
+      "orders": "ऑर्डर",
+      "recommend": "अनुशंसाएँ",
+      "astrologer": "ज्योतिषी पूजा"
+    },
+    "courses": {
+      "categories": "श्रेणियाँ",
+      "course": "कोर्स",
+      "chapters": "अध्याय",
+      "orders": "ऑर्डर"
+    },
+    "finance": {
+      "earnings": "एडमिन कमाई",
+      "withdrawals": "निकासी अनुरोध",
+      "recharge": "रिचार्ज हिस्ट्री",
+      "receiveFund": "फंड प्राप्त करें"
+    },
+    "reports": {
+      "calls": "कॉल रिपोर्ट",
+      "chats": "चैट रिपोर्ट",
+      "partnerWise": "पार्टनर कमाई",
+      "requests": "रिपोर्ट अनुरोध",
+      "kundali": "कुंडली रिपोर्ट",
+      "astromall": "एस्ट्रोमॉल रिपोर्ट",
+      "puja": "पूजा रिपोर्ट",
+      "tds": "TDS रिपोर्ट",
+      "gst": "GST रिपोर्ट"
+    },
+    "support": {
+      "tickets": "टिकट",
+      "aichat": "AI चैट",
+      "reports": "सहायता रिपोर्ट",
+      "contact": "संपर्क फ़ॉर्म",
+      "feedback": "प्रतिक्रिया"
+    },
+    "receivefund": {
+      "requests": "रिचार्ज अनुरोध",
+      "withdrawal": "निकासी राशि",
+      "beneficiaries": "लाभार्थी",
+      "withdrawRequests": "निकासी अनुरोध"
+    },
+    "profitloss": {
+      "all": "सभी रिपोर्ट",
+      "loss": "हानि रिपोर्ट",
+      "profit": "लाभ रिपोर्ट"
+    },
+    "promoter": {
+      "all": "सभी रिपोर्ट",
+      "loss": "हानि रिपोर्ट",
+      "profit": "लाभ रिपोर्ट"
+    },
+    "offers": {
+      "all": "सभी ऑफ़र",
+      "report": "ऑफ़र रिपोर्ट",
+      "referral": "रेफरल",
+      "referralReport": "रेफरल रिपोर्ट"
+    },
+    "master": {
+      "avatar": "ग्राहक अवतार",
+      "horoscopeSigns": "राशियाँ",
+      "reportType": "रिपोर्ट प्रकार",
+      "recharge": "रिचार्ज राशि",
+      "kundaliPrice": "कुंडली मूल्य",
+      "referral": "रेफरल सेटिंग्स",
+      "trainingVideo": "प्रशिक्षण वीडियो"
+    },
+    "general": {
+      "general": "सामान्य",
+      "masterImage": "मास्टर इमेज",
+      "customerApp": "ग्राहक ऐप",
+      "astrologerApp": "ज्योतिषी ऐप",
+      "webApp": "वेब ऐप",
+      "social": "सोशल लिंक",
+      "payments": "भुगतान गेटवे",
+      "financial": "वित्तीय",
+      "thirdParty": "थर्ड पार्टी",
+      "developer": "डेवलपर"
+    },
+    "datamont": {
+      "chats": "चैट",
+      "calls": "कॉल",
+      "messages": "संदेश",
+      "aiChats": "AI चैट",
+      "live": "लाइव परामर्श",
+      "video": "वीडियो परामर्श",
+      "livePuja": "लाइव पूजा",
+      "horoscopes": "कुंडली",
+      "blockKeywords": "कीवर्ड ब्लॉक करें"
+    },
+    "deadreport": {
+      "all": "सभी डेड रिपोर्ट",
+      "history": "इतिहास"
+    },
+    "team": {
+      "list": "टीम सूची",
+      "roles": "भूमिकाएँ और अनुमतियाँ",
+      "manage": "टीम प्रबंधन",
+      "pages": "पेज प्रबंधन"
+    },
+    "fundManagement": {
+      "title": "फंड प्रबंधन",
+      "beneficiaries": "लाभार्थी",
+      "addBeneficiary": "लाभार्थी जोड़ें",
+      "viewBeneficiaries": "लाभार्थी देखें",
+      "withdrawRequests": "निकासी अनुरोध",
+      "payoutLogs": "भुगतान लॉग",
+      "pointSystem": "पॉइंट सिस्टम"
+    },
+    "integrationHub": {
+      "title": "इंटीग्रेशन हब",
+      "agora": {
+        "dashboard": "Agora डैशबोर्ड",
+        "token": "Agora टोकन"
+      },
+      "kafka": {
+        "dashboard": "Kafka डैशबोर्ड",
+        "topics": "टॉपिक",
+        "producer": "प्रोड्यूसर",
+        "consumer": "कंज़्यूमर"
+      },
+      "redis": {
+        "dashboard": "Redis डैशबोर्ड",
+        "keys": "कुंजियाँ",
+        "command": "कमांड"
+      },
+      "payments": {
+        "gateways": "भुगतान गेटवे",
+        "test": "भुगतान परीक्षण",
+        "webhook": "Webhook"
+      },
+      "notifications": {
+        "push": "पुश सूचनाएँ",
+        "email": "ईमेल सूचनाएँ",
+        "sms": "SMS सूचनाएँ",
+        "broadcast": "ब्रॉडकास्ट"
+      },
+      "storage": {
+        "dashboard": "स्टोरेज डैशबोर्ड",
+        "upload": "अपलोड"
+      },
+      "system": {
+        "health": "सिस्टम स्वास्थ्य",
+        "config": "सिस्टम कॉन्फ़िग",
+        "logs": "सिस्टम लॉग"
+      }
+    }
+  },
+  "common": {
+    "save": "सहेजें",
+    "saving": "सहेज रहा है...",
+    "cancel": "रद्द करें",
+    "delete": "हटाएँ",
+    "edit": "संपादित करें",
+    "create": "बनाएँ",
+    "update": "अपडेट करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "export": "निर्यात",
+    "import": "आयात",
+    "loading": "लोड हो रहा है...",
+    "noData": "कोई डेटा नहीं मिला",
+    "back": "वापस",
+    "next": "अगला",
+    "submit": "जमा करें",
+    "reset": "रीसेट",
+    "close": "बंद करें",
+    "confirm": "पुष्टि करें",
+    "actions": "क्रियाएँ",
+    "status": "स्थिति",
+    "active": "सक्रिय",
+    "inactive": "निष्क्रिय",
+    "enabled": "सक्षम",
+    "disabled": "अक्षम",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "all": "सभी",
+    "clear": "साफ़ करें",
+    "apply": "लागू करें",
+    "refresh": "ताज़ा करें",
+    "view": "देखें",
+    "download": "डाउनलोड",
+    "upload": "अपलोड",
+    "print": "प्रिंट",
+    "copy": "कॉपी करें",
+    "success": "सफल",
+    "error": "त्रुटि",
+    "warning": "चेतावनी",
+    "info": "जानकारी"
+  },
+  "auth": {
+    "login": "साइन इन करें",
+    "logout": "साइन आउट करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "welcomeBack": "वापस स्वागत है",
+    "signInToContinue": "जारी रखने के लिए साइन इन करें",
+    "invalidCredentials": "गलत ईमेल या पासवर्ड",
+    "sessionExpired": "सत्र समाप्त हुआ। कृपया फिर से लॉगिन करें।",
+    "otp": "OTP कोड"
+  },
+  "dashboard": {
+    "totalCustomers": "कुल ग्राहक",
+    "totalAstrologers": "कुल ज्योतिषी",
+    "totalRevenue": "कुल कमाई",
+    "monthlyEarnings": "मासिक कमाई रिपोर्ट",
+    "topAstrologers": "शीर्ष प्रदर्शन करने वाले ज्योतिषी",
+    "pendingRequests": "लंबित स्वीकृतियाँ",
+    "totalOrders": "कुल ऑर्डर",
+    "todayCalls": "कॉल",
+    "todayChats": "चैट",
+    "title": "डैशबोर्ड",
+    "subtitle": "आपके ज्योतिष प्लेटफ़ॉर्म का वास्तविक समय अवलोकन",
+    "live": "लाइव",
+    "actions": {
+      "retry": "फिर से प्रयास करें"
+    },
+    "cards": {
+      "callRequest": "कॉल अनुरोध",
+      "chatRequest": "चैट अनुरोध",
+      "reportRequest": "रिपोर्ट अनुरोध",
+      "totalEarning": "कुल कमाई",
+      "totalCustomer": "कुल ग्राहक",
+      "totalAstrologer": "कुल ज्योतिषी",
+      "totalOrders": "कुल ऑर्डर",
+      "totalStories": "कुल स्टोरी",
+      "totalPujaOrders": "पूजा ऑर्डर",
+      "totalCourseOrders": "कोर्स ऑर्डर",
+      "activeCustomers": "सक्रिय ग्राहक",
+      "activeAstrologers": "सक्रिय ज्योतिषी"
+    },
+    "charts": {
+      "monthlyEarningTitle": "मासिक कमाई रिपोर्ट",
+      "monthlyEarningDescription": "पिछले 12 महीनों में पूर्ण हुए वॉलेट क्रेडिट",
+      "monthlyRequestsTitle": "मासिक अनुरोध",
+      "monthlyRequestsDescription": "पिछले 12 महीनों में कॉल और चैट अनुरोधों की संख्या"
+    },
+    "series": {
+      "earnings": "कमाई",
+      "calls": "कॉल",
+      "chats": "चैट"
+    },
+    "tables": {
+      "topAstrologers": "शीर्ष प्रदर्शन करने वाले ज्योतिषी",
+      "unverifiedAstrologers": "असत्यापित ज्योतिषी",
+      "byConsultations": "अनुरोधों के आधार पर",
+      "needsReview": "समीक्षा आवश्यक"
+    },
+    "table": {
+      "astrologer": "ज्योतिषी",
+      "skills": "कौशल",
+      "languages": "भाषाएँ",
+      "requests": "अनुरोध"
+    },
+    "states": {
+      "errorTitle": "डैशबोर्ड लोड नहीं हो सका",
+      "noEarningTitle": "अभी कोई कमाई नहीं",
+      "noEarningDescription": "पूर्ण वॉलेट क्रेडिट उपलब्ध होने पर मासिक कमाई का डेटा यहाँ दिखाई देगा।",
+      "noRequestsTitle": "अभी कोई अनुरोध नहीं",
+      "noRequestsDescription": "कॉल या चैट सेशन बनने पर मासिक अनुरोध ट्रेंड यहाँ दिखाई देंगे।",
+      "noTopAstrologersTitle": "अभी कोई शीर्ष ज्योतिषी नहीं",
+      "noTopAstrologersDescription": "ज्योतिषियों को अनुरोध मिलने के बाद शीर्ष प्रदर्शन करने वाले यहाँ दिखाई देंगे।",
+      "noUnverifiedTitle": "कोई लंबित ज्योतिषी नहीं",
+      "noUnverifiedDescription": "सत्यापन की आवश्यकता वाले नए ज्योतिषी आवेदन यहाँ दिखाई देंगे।"
+    },
+    "platformHealth": {
+      "title": "प्लेटफ़ॉर्म स्वास्थ्य",
+      "activeCustomers": "सक्रिय ग्राहक",
+      "activeAstrologers": "सक्रिय ज्योतिषी",
+      "pendingApprovals": "लंबित स्वीकृतियाँ"
+    },
+    "quickActions": {
+      "title": "त्वरित क्रियाएँ",
+      "addAstrologer": "नया ज्योतिषी जोड़ें",
+      "sendNotification": "सूचना भेजें",
+      "pendingRequests": "लंबित अनुरोध देखें",
+      "approveWithdrawals": "निकासी स्वीकृत करें",
+      "checkReports": "रिपोर्ट देखें"
+    },
+    "data": {
+      "stats": "Dashboard Stats",
+      "callRequest": "कॉल अनुरोध",
+      "chatRequest": "चैट अनुरोध",
+      "reportRequest": "रिपोर्ट अनुरोध",
+      "totalEarning": "कुल कमाई",
+      "totalCustomer": "कुल ग्राहक",
+      "totalAstrologer": "कुल ज्योतिषी",
+      "totalOrders": "कुल ऑर्डर",
+      "totalStories": "कुल स्टोरी",
+      "totalPujaOrders": "पूजा ऑर्डर",
+      "totalCourseOrders": "कोर्स ऑर्डर",
+      "activeCustomers": "सक्रिय ग्राहक",
+      "activeAstrologers": "सक्रिय ज्योतिषी",
+      "monthlyEarning": "मासिक कमाई रिपोर्ट",
+      "monthlyRequests": "मासिक अनुरोध",
+      "topAstrologers": "शीर्ष प्रदर्शन करने वाले ज्योतिषी",
+      "unverifiedAstrologers": "असत्यापित ज्योतिषी",
+      "month": "Month",
+      "earning": "Earning",
+      "amount": "Amount",
+      "calls": "कॉल",
+      "chats": "चैट",
+      "astrologer": "ज्योतिषी",
+      "name": "Name",
+      "mobile": "Mobile",
+      "image": "Image",
+      "skills": "कौशल",
+      "languages": "भाषाएँ",
+      "rating": "Rating",
+      "totalCallRequest": "Total Call Requests",
+      "totalChatRequest": "Total Chat Requests",
+      "totalRequests": "Total Requests",
+      "createdAt": "Created At",
+      "pendingApprovals": "लंबित स्वीकृतियाँ",
+      "verified": "Verified",
+      "pending": "Pending",
+      "notAvailable": "Not Available"
+    },
+    "datasets": {
+      "stats": "Dashboard Stats",
+      "monthlyEarning": "मासिक कमाई रिपोर्ट",
+      "monthlyRequests": "मासिक अनुरोध",
+      "topAstrologers": "शीर्ष प्रदर्शन करने वाले ज्योतिषी",
+      "unverifiedAstrologers": "असत्यापित ज्योतिषी"
+    },
+    "apiMessages": {
+      "loadingStats": "Dashboard Stats...",
+      "loadingMonthlyEarning": "मासिक कमाई रिपोर्ट...",
+      "loadingMonthlyRequests": "मासिक अनुरोध...",
+      "loadingTopAstrologers": "शीर्ष प्रदर्शन करने वाले ज्योतिषी...",
+      "loadingUnverifiedAstrologers": "असत्यापित ज्योतिषी...",
+      "statsLoaded": "Dashboard Stats",
+      "dataUnavailable": "Not Available"
+    }
+  },
+  "validation": {
+    "required": "यह फ़ील्ड आवश्यक है",
+    "email": "कृपया एक मान्य ईमेल दर्ज करें",
+    "minLength": "न्यूनतम {{count}} अक्षर",
+    "maxLength": "अधिकतम {{count}} अक्षर",
+    "passwordMatch": "पासवर्ड मेल खाने चाहिए",
+    "invalidPhone": "कृपया एक मान्य फ़ोन नंबर दर्ज करें"
+  },
+  "notification": {
+    "created": "सफलतापूर्वक बनाया गया",
+    "updated": "सफलतापूर्वक अपडेट किया गया",
+    "deleted": "सफलतापूर्वक हटाया गया",
+    "confirmDelete": "क्या आप वाकई इसे हटाना चाहते हैं?",
+    "operationFailed": "ऑपरेशन विफल",
+    "noChanges": "कोई बदलाव नहीं"
+  },
+  "customer": {
+    "verifyReject": {
+      "title": "ग्राहक सत्यापित / अस्वीकार करें",
+      "subtitle": "लंबित ग्राहक प्रोफ़ाइल की समीक्षा करें और सत्यापन स्थिति स्वीकृत या अस्वीकार करें।",
+      "searchPlaceholder": "नाम, फ़ोन या ईमेल से खोजें...",
+      "tableTitle": "ग्राहक सत्यापन अनुरोध",
+      "emptyTitle": "कोई सत्यापन अनुरोध नहीं मिला",
+      "emptyDescription": "चयनित सत्यापन स्थिति वाले ग्राहक यहाँ दिखाई देंगे।",
+      "errorTitle": "सत्यापन अनुरोध लोड नहीं हो सके",
+      "filters": {
+        "all": "सभी",
+        "pending": "लंबित",
+        "verified": "सत्यापित",
+        "rejected": "अस्वीकृत"
+      },
+      "status": {
+        "pending": "लंबित",
+        "verified": "सत्यापित",
+        "rejected": "अस्वीकृत"
+      },
+      "table": {
+        "customer": "ग्राहक",
+        "mobile": "मोबाइल",
+        "email": "ईमेल",
+        "registeredAt": "पंजीकृत तिथि",
+        "status": "स्थिति",
+        "actions": "क्रियाएँ"
+      },
+      "actions": {
+        "verify": "सत्यापित करें",
+        "reject": "अस्वीकार करें",
+        "retry": "फिर से प्रयास करें"
+      },
+      "toast": {
+        "verified": "ग्राहक सफलतापूर्वक सत्यापित हुआ",
+        "rejected": "ग्राहक सफलतापूर्वक अस्वीकार हुआ",
+        "failed": "ग्राहक अपडेट विफल"
+      }
+    },
+    "blocked": {
+      "title": "ब्लॉक किए गए ग्राहक",
+      "subtitle": "ब्लॉक किए गए ग्राहक खातों की समीक्षा करें और आवश्यकता होने पर एक्सेस बहाल करें।",
+      "searchPlaceholder": "नाम, फ़ोन या ईमेल से खोजें...",
+      "tableTitle": "ब्लॉक ग्राहक खाते",
+      "emptyTitle": "कोई ब्लॉक ग्राहक नहीं मिला",
+      "emptyDescription": "ब्लॉक एक्सेस वाले ग्राहक यहाँ दिखाई देंगे।",
+      "errorTitle": "ब्लॉक ग्राहक लोड नहीं हो सके",
+      "filters": {
+        "all": "सभी",
+        "blocked": "ब्लॉक",
+        "active": "सक्रिय"
+      },
+      "status": {
+        "blocked": "ब्लॉक",
+        "active": "सक्रिय"
+      },
+      "table": {
+        "customer": "ग्राहक",
+        "mobile": "मोबाइल",
+        "email": "ईमेल",
+        "reason": "कारण",
+        "status": "स्थिति",
+        "actions": "क्रियाएँ"
+      },
+      "actions": {
+        "block": "ब्लॉक करें",
+        "unblock": "अनब्लॉक करें",
+        "retry": "फिर से प्रयास करें"
+      },
+      "confirm": {
+        "unblockTitle": "ग्राहक अनब्लॉक करें?",
+        "unblockMessage": "क्या आप वाकई {{name}} को अनब्लॉक करना चाहते हैं?"
+      },
+      "toast": {
+        "blocked": "ग्राहक सफलतापूर्वक ब्लॉक हुआ",
+        "unblocked": "ग्राहक सफलतापूर्वक अनब्लॉक हुआ",
+        "failed": "ग्राहक अपडेट विफल"
+      }
+    },
+    "wallet": {
+      "title": "वॉलेट ग्राहक",
+      "subtitle": "ग्राहक वॉलेट बैलेंस और हाल की गतिविधि देखें।",
+      "searchPlaceholder": "नाम, फ़ोन या ईमेल से खोजें...",
+      "tableTitle": "ग्राहक वॉलेट",
+      "emptyTitle": "कोई वॉलेट ग्राहक नहीं मिला",
+      "emptyDescription": "चयनित वॉलेट फ़िल्टर वाले ग्राहक यहाँ दिखाई देंगे।",
+      "errorTitle": "वॉलेट ग्राहक लोड नहीं हो सके",
+      "filters": {
+        "all": "सभी",
+        "positive": "सकारात्मक बैलेंस",
+        "zero": "शून्य बैलेंस"
+      },
+      "summary": {
+        "customers": "ग्राहक",
+        "balance": "कुल बैलेंस",
+        "credits": "हाल के क्रेडिट",
+        "transactions": "लेनदेन"
+      },
+      "table": {
+        "customer": "ग्राहक",
+        "mobile": "मोबाइल",
+        "email": "ईमेल",
+        "balance": "वॉलेट बैलेंस",
+        "credits": "हाल के क्रेडिट",
+        "transactions": "लेनदेन"
+      },
+      "actions": {
+        "retry": "फिर से प्रयास करें"
+      }
+    },
+    "walletTransactions": {
+      "title": "वॉलेट लेनदेन",
+      "subtitle": "ग्राहक वॉलेट क्रेडिट, डेबिट, भुगतान स्थिति और स्रोत देखें।",
+      "searchPlaceholder": "लेनदेन ID, ग्राहक, स्रोत या स्थिति से खोजें...",
+      "tableTitle": "वॉलेट लेनदेन इतिहास",
+      "emptyTitle": "कोई वॉलेट लेनदेन नहीं मिला",
+      "emptyDescription": "चयनित फ़िल्टर से मेल खाने वाले लेनदेन यहाँ दिखाई देंगे।",
+      "errorTitle": "वॉलेट लेनदेन लोड नहीं हो सके",
+      "filters": {
+        "allTypes": "सभी प्रकार",
+        "allStatuses": "सभी स्थितियाँ"
+      },
+      "type": {
+        "credit": "क्रेडिट",
+        "debit": "डेबिट"
+      },
+      "status": {
+        "confirmed": "पुष्ट",
+        "pending": "लंबित",
+        "failed": "विफल"
+      },
+      "summary": {
+        "count": "लेनदेन",
+        "credit": "कुल क्रेडिट",
+        "debit": "कुल डेबिट",
+        "net": "शुद्ध राशि"
+      },
+      "table": {
+        "transaction": "लेनदेन",
+        "customer": "ग्राहक",
+        "type": "प्रकार",
+        "amount": "राशि",
+        "status": "स्थिति",
+        "source": "स्रोत",
+        "date": "तिथि"
+      },
+      "actions": {
+        "retry": "फिर से प्रयास करें"
+      }
+    },
+    "verifyChat": {
+      "title": "चैट सत्यापित करें",
+      "subtitle": "ग्राहक चैट पात्रता की समीक्षा करें और चैट एक्सेस स्वीकृत या अस्वीकार करें।",
+      "searchPlaceholder": "नाम, फ़ोन या ईमेल से खोजें...",
+      "tableTitle": "ग्राहक चैट सत्यापन",
+      "emptyTitle": "कोई चैट सत्यापन अनुरोध नहीं मिला",
+      "emptyDescription": "चयनित चैट सत्यापन स्थिति वाले ग्राहक यहाँ दिखाई देंगे।",
+      "errorTitle": "चैट सत्यापन अनुरोध लोड नहीं हो सके",
+      "filters": {
+        "all": "सभी",
+        "pending": "लंबित",
+        "verified": "सत्यापित",
+        "rejected": "अस्वीकृत"
+      },
+      "status": {
+        "pending": "लंबित",
+        "verified": "सत्यापित",
+        "rejected": "अस्वीकृत"
+      },
+      "table": {
+        "customer": "ग्राहक",
+        "mobile": "मोबाइल",
+        "email": "ईमेल",
+        "totalChats": "कुल चैट",
+        "firstChat": "पहली चैट",
+        "status": "स्थिति",
+        "actions": "क्रियाएँ"
+      },
+      "actions": {
+        "verify": "सत्यापित करें",
+        "reject": "अस्वीकार करें",
+        "retry": "फिर से प्रयास करें"
+      },
+      "toast": {
+        "verified": "चैट एक्सेस सफलतापूर्वक सत्यापित हुआ",
+        "rejected": "चैट एक्सेस सफलतापूर्वक अस्वीकार हुआ",
+        "failed": "चैट एक्सेस अपडेट विफल"
+      }
+    }
+  },
+  "course": {
+    "categories": {
+      "title": "कोर्स श्रेणियाँ",
+      "subtitle": "कोर्स सामग्री के लिए श्रेणियाँ बनाएँ और प्रबंधित करें।",
+      "searchPlaceholder": "कोर्स श्रेणियाँ खोजें...",
+      "tableTitle": "कोर्स श्रेणी सूची",
+      "emptyTitle": "कोई कोर्स श्रेणी नहीं मिली",
+      "emptyDescription": "लर्निंग सामग्री व्यवस्थित करने के लिए कोर्स श्रेणी बनाएँ।",
+      "errorTitle": "कोर्स श्रेणियाँ लोड नहीं हो सकीं",
+      "filters": {
+        "all": "सभी",
+        "active": "सक्रिय",
+        "inactive": "निष्क्रिय"
+      },
+      "status": {
+        "active": "सक्रिय",
+        "inactive": "निष्क्रिय"
+      },
+      "table": {
+        "category": "श्रेणी",
+        "sortOrder": "क्रम",
+        "status": "स्थिति",
+        "createdAt": "बनाया गया",
+        "actions": "क्रियाएँ"
+      },
+      "form": {
+        "name": "नाम",
+        "namePlaceholder": "श्रेणी का नाम",
+        "description": "विवरण",
+        "descriptionPlaceholder": "संक्षिप्त विवरण",
+        "image": "छवि URL",
+        "imagePlaceholder": "https://example.com/category.png",
+        "sortOrder": "क्रम",
+        "status": "सक्रिय",
+        "chooseImage": "छवि चुनें",
+        "noImageSelected": "कोई छवि चयनित नहीं"
+      },
+      "modal": {
+        "createTitle": "कोर्स श्रेणी जोड़ें",
+        "editTitle": "कोर्स श्रेणी संपादित करें"
+      },
+      "actions": {
+        "create": "श्रेणी जोड़ें",
+        "edit": "संपादित करें",
+        "delete": "हटाएँ",
+        "retry": "फिर से प्रयास करें"
+      },
+      "confirm": {
+        "deleteTitle": "श्रेणी हटाएँ?",
+        "deleteMessage": "क्या आप वाकई {{name}} हटाना चाहते हैं?"
+      },
+      "toast": {
+        "created": "कोर्स श्रेणी बनाई गई",
+        "updated": "कोर्स श्रेणी अपडेट हुई",
+        "deleted": "कोर्स श्रेणी हटाई गई",
+        "activated": "कोर्स श्रेणी सक्रिय हुई",
+        "deactivated": "कोर्स श्रेणी निष्क्रिय हुई",
+        "failed": "कोर्स श्रेणी क्रिया विफल"
+      }
+    }
+  },
+  "generalTabs": {
+    "subtitle": "इस सेक्शन की एप्लिकेशन कॉन्फ़िगरेशन प्रबंधित करें।",
+    "sectionKey": "सेक्शन",
+    "errorTitle": "कॉन्फ़िगरेशन लोड नहीं हो सका",
+    "noFields": "इस सेक्शन के लिए कोई फ़ील्ड कॉन्फ़िगर नहीं है।",
+    "toast": {
+      "saved": "कॉन्फ़िगरेशन सफलतापूर्वक सेव हुआ",
+      "failed": "कॉन्फ़िगरेशन सेव विफल"
+    },
+    "sections": {
+      "general": {
+        "title": "सामान्य",
+        "subtitle": "Core platform URLs, currency, support, and feature toggles."
+      },
+      "payments": {
+        "title": "पेमेंट गेटवे",
+        "subtitle": "Configure payment gateway toggles and credentials."
+      },
+      "social": {
+        "title": "सोशल लिंक",
+        "subtitle": "Manage social and app store links."
+      },
+      "third_party": {
+        "title": "थर्ड पार्टी पैकेज",
+        "subtitle": "Configure external services like maps, SMS, email, AI, Agora, and storage."
+      },
+      "master_image": {
+        "title": "मास्टर इमेज",
+        "subtitle": "Manage default image references used across the platform."
+      },
+      "customer_app": {
+        "title": "कस्टमर ऐप सेटिंग्स",
+        "subtitle": "Manage customer mobile app version, links, and maintenance settings."
+      },
+      "astrologer_app": {
+        "title": "ज्योतिषी ऐप सेटिंग्स",
+        "subtitle": "Manage partner app version, links, and maintenance settings."
+      },
+      "website_config": {
+        "title": "वेब ऐप सेटिंग्स",
+        "subtitle": "Manage website SEO and Firebase web configuration."
+      },
+      "financial": {
+        "title": "वित्तीय",
+        "subtitle": "Manage commissions, tax percentages, minimum prices, and bonus values."
+      },
+      "developer": {
+        "title": "डेवलपर सेटिंग्स",
+        "subtitle": "Manage developer, Redis, Kafka, and operational integration settings."
+      }
+    },
+    "fields": {
+      "app_name": "App Name",
+      "app_short_name": "App Short Name",
+      "profession_title": "Profession Title",
+      "admin_url": "Admin Url",
+      "customer_url": "Customer Url",
+      "astrologer_url": "Astrologer Url",
+      "website_url": "Website Url",
+      "supportemail": "Supportemail",
+      "supportmobile": "Supportmobile",
+      "currency": "Currency",
+      "currency_symbol": "Currency Symbol",
+      "usd_to_inr": "Usd To Inr",
+      "enable_chat": "Enable Chat",
+      "enable_call": "Enable Call",
+      "enable_live": "Enable Live",
+      "enable_report": "Enable Report",
+      "enable_puja": "Enable Puja",
+      "enable_course": "Enable Course",
+      "enable_astroshop": "Enable Astroshop",
+      "first_chat_free": "First Chat Free",
+      "first_call_free": "First Call Free",
+      "website": "Website",
+      "youtube_link": "Youtube Link",
+      "facebook_link": "Facebook Link",
+      "instagram_link": "Instagram Link",
+      "linkedin_link": "Linkedin Link",
+      "pinterest_link": "Pinterest Link",
+      "telegram_link": "Telegram Link",
+      "twitter_link": "Twitter Link",
+      "apple_link": "Apple Link",
+      "logo": "Logo",
+      "default_profile": "Default Profile",
+      "astroshop": "Astroshop",
+      "daily_horoscope": "Daily Horoscope",
+      "kundali": "Kundali",
+      "kundali_matching": "Kundali Matching",
+      "today_panchang": "Today Panchang",
+      "category": "Category",
+      "blog": "Blog",
+      "puja": "Puja",
+      "course": "Course",
+      "notification": "Notification",
+      "chat_icon": "Chat Icon",
+      "call_icon": "Call Icon",
+      "report_icon": "Report Icon",
+      "appName": "AppName",
+      "appShortName": "AppShortName",
+      "appLogo": "AppLogo",
+      "androidversion": "Androidversion",
+      "iOSversion": "IOSversion",
+      "version": "Version",
+      "androidappurl": "Androidappurl",
+      "iosappurl": "Iosappurl",
+      "maintenance": "Maintenance",
+      "iOSmaintenance": "IOSmaintenance",
+      "force_update_android": "Force Update Android",
+      "force_update_ios": "Force Update Ios",
+      "website_name": "Website Name",
+      "meta_title": "Meta Title",
+      "meta_description": "Meta Description",
+      "website_logo": "Website Logo",
+      "favicon": "Favicon",
+      "firebase_api_key": "Firebase Api Key",
+      "firebase_auth_domain": "Firebase Auth Domain",
+      "firebase_project_id": "Firebase Project Id",
+      "firebase_storage_bucket": "Firebase Storage Bucket",
+      "firebase_messaging_sender_id": "Firebase Messaging Sender Id",
+      "firebase_app_id": "Firebase App Id",
+      "call_commission": "Call Commission",
+      "chat_commission": "Chat Commission",
+      "video_commission": "Video Commission",
+      "report_commission": "Report Commission",
+      "tds_percentage": "Tds Percentage",
+      "gst_percentage": "Gst Percentage",
+      "min_call_price": "Min Call Price",
+      "min_chat_price": "Min Chat Price",
+      "min_video_price": "Min Video Price",
+      "min_report_price": "Min Report Price",
+      "referral_bonus": "Referral Bonus",
+      "first_recharge_bonus": "First Recharge Bonus",
+      "gst_rate": "Gst Rate",
+      "razorpay.enabled": "Enabled",
+      "razorpay.key_id": "Key Id",
+      "razorpay.key_secret": "Key Secret",
+      "cashfree.enabled": "Enabled",
+      "cashfree.app_id": "App Id",
+      "cashfree.secret_key": "Secret Key",
+      "cashfree.mode": "Mode",
+      "phonepe.enabled": "Enabled",
+      "phonepe.merchant_id": "Merchant Id",
+      "phonepe.salt_key": "Salt Key",
+      "phonepe.mode": "Mode",
+      "stripe.enabled": "Enabled",
+      "stripe.publishable_key": "Publishable Key",
+      "stripe.secret_key": "Secret Key",
+      "paypal.enabled": "Enabled",
+      "paypal.client_id": "Client Id",
+      "paypal.client_secret": "Client Secret",
+      "bucket_provider": "Bucket Provider",
+      "agora.enabled": "Enabled",
+      "agora.app_id": "App Id",
+      "agora.key": "Key",
+      "agora.secret": "Secret",
+      "agora.certificate": "Certificate",
+      "gmap.api_key": "Api Key",
+      "gmap.android_key": "Android Key",
+      "gmap.ios_key": "Ios Key",
+      "shiprocket.enabled": "Enabled",
+      "shiprocket.email": "Email",
+      "shiprocket.password": "Password",
+      "sms.enabled": "Enabled",
+      "sms.provider": "Provider",
+      "sms.auth_key": "Auth Key",
+      "sms.sender_id": "Sender Id",
+      "email.enabled": "Enabled",
+      "email.provider": "Provider",
+      "email.host": "Host",
+      "email.port": "Port",
+      "email.user": "User",
+      "email.pass": "Pass",
+      "ai.enabled": "Enabled",
+      "ai.provider": "Provider",
+      "ai.openai_api_key": "Openai Api Key",
+      "ai.gemini_api_key": "Gemini Api Key",
+      "ai.claude_api_key": "Claude Api Key",
+      "secret_token": "Secret Token",
+      "image_url": "Image Url",
+      "callback_url": "Callback Url",
+      "redis_env": "Redis Env",
+      "redis_url": "Redis Url",
+      "redis_host": "Redis Host",
+      "redis_port": "Redis Port",
+      "redis_provider": "Redis Provider",
+      "KAFKA_BROKER": "KAFKA BROKER",
+      "KAFKA_CLIENT_ID": "KAFKA CLIENT ID",
+      "slack_webhook_url": "Slack Webhook Url",
+      "jira_base_url": "Jira Base Url",
+      "pagerduty_routing_key": "Pagerduty Routing Key"
+    }
+  }
+}

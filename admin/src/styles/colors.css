@@ -1,0 +1,404 @@
+[data-theme-light="slate"] {
+  --color-gray-50: var(--color-slate-50);
+  --color-gray-100: var(--color-slate-100);
+  --color-gray-150: #e9eef5;
+  --color-gray-200: var(--color-slate-200);
+  --color-gray-300: var(--color-slate-300);
+  --color-gray-400: var(--color-slate-400);
+  --color-gray-500: var(--color-slate-500);
+  --color-gray-600: var(--color-slate-600);
+  --color-gray-700: var(--color-slate-700);
+  --color-gray-800: var(--color-slate-800);
+  --color-gray-900: var(--color-slate-900);
+  --color-gray-950: var(--color-slate-950);
+}
+
+[data-theme-light="gray"] {
+  --color-gray-50: var(--color-gray-50);
+  --color-gray-100: var(--color-gray-100);
+  --color-gray-150: #ebedf0;
+  --color-gray-200: var(--color-gray-200);
+  --color-gray-300: var(--color-gray-300);
+  --color-gray-400: var(--color-gray-400);
+  --color-gray-500: var(--color-gray-500);
+  --color-gray-600: var(--color-gray-600);
+  --color-gray-700: var(--color-gray-700);
+  --color-gray-800: var(--color-gray-800);
+  --color-gray-900: var(--color-gray-900);
+  --color-gray-950: var(--color-gray-950);
+}
+
+[data-theme-light="neutral"] {
+  --color-gray-50: var(--color-neutral-50);
+  --color-gray-100: var(--color-neutral-100);
+  --color-gray-150: #ededed;
+  --color-gray-200: var(--color-neutral-200);
+  --color-gray-300: var(--color-neutral-300);
+  --color-gray-400: var(--color-neutral-400);
+  --color-gray-500: var(--color-neutral-500);
+  --color-gray-600: var(--color-neutral-600);
+  --color-gray-700: var(--color-neutral-700);
+  --color-gray-800: var(--color-neutral-800);
+  --color-gray-900: var(--color-neutral-900);
+  --color-gray-950: var(--color-neutral-950);
+}
+
+[data-theme-dark="navy"] {
+  --color-dark-50: #e7e9ef;
+  --color-dark-100: #c2c9d6;
+  --color-dark-200: #a5afc4;
+  --color-dark-300: #6d7ea1;
+  --color-dark-400: #5c6b8a;
+  --color-dark-450: #465675;
+  --color-dark-500: #384766;
+  --color-dark-600: #313e59;
+  --color-dark-700: #24314a;
+  --color-dark-750: #222e45;
+  --color-dark-800: #202b40;
+  --color-dark-900: #182030;
+}
+
+[data-theme-dark="mirage"] {
+  --color-dark-50: #dde5f5;
+  --color-dark-100: #b4bfd9;
+  --color-dark-200: #9eaac4;
+  --color-dark-300: #6c7c9e;
+  --color-dark-400: #3d4e70;
+  --color-dark-450: #293859;
+  --color-dark-500: #1e2b47;
+  --color-dark-600: #1a2640;
+  --color-dark-700: #101a2e;
+  --color-dark-750: #0f1729;
+  --color-dark-800: #0c1221;
+  --color-dark-900: #050a16;
+}
+
+[data-theme-dark="mint"] {
+  --color-dark-50: #e1e5ea;
+  --color-dark-100: #c5ccd3;
+  --color-dark-200: #a0abb6;
+  --color-dark-300: #70838f;
+  --color-dark-400: #506877;
+  --color-dark-450: #384954;
+  --color-dark-500: #2a3942;
+  --color-dark-600: #242f38;
+  --color-dark-700: #152129;
+  --color-dark-750: #111b22;
+  --color-dark-800: #0d161c;
+  --color-dark-900: #0a1014;
+}
+
+[data-theme-dark="black"] {
+  --color-dark-50: #ebebed;
+  --color-dark-100: #d9d9de;
+  --color-dark-200: #c5c5cc;
+  --color-dark-300: #93939c;
+  --color-dark-400: #4a4a4f;
+  --color-dark-450: #333338;
+  --color-dark-500: #242428;
+  --color-dark-600: #1f1f21;
+  --color-dark-700: #131314;
+  --color-dark-750: #0c0c0d;
+  --color-dark-800: #080809;
+  --color-dark-900: #000000;
+}
+
+[data-theme-dark="cinder"] {
+  --color-dark-50: #e6e7eb;
+  --color-dark-100: #d0d2db;
+  --color-dark-200: #b7bac4;
+  --color-dark-300: #838794;
+  --color-dark-400: #4c4f57;
+  --color-dark-450: #383a41;
+  --color-dark-500: #2a2c32;
+  --color-dark-600: #232429;
+  --color-dark-700: #1c1d21;
+  --color-dark-750: #1a1b1f;
+  --color-dark-800: #15161a;
+  --color-dark-900: #0e0f11;
+}
+
+[data-theme-primary="indigo"] {
+  --color-primary: var(--color-indigo-600);
+  --color-primary-50: var(--color-indigo-50);
+  --color-primary-100: var(--color-indigo-100);
+  --color-primary-200: var(--color-indigo-200);
+  --color-primary-300: var(--color-indigo-300);
+  --color-primary-400: var(--color-indigo-400);
+  --color-primary-500: var(--color-indigo-500);
+  --color-primary-600: var(--color-indigo-600);
+  --color-primary-700: var(--color-indigo-700);
+  --color-primary-800: var(--color-indigo-800);
+  --color-primary-900: var(--color-indigo-900);
+  --color-primary-950: var(--color-indigo-950);
+}
+
+[data-theme-primary="blue"] {
+  --color-primary: var(--color-blue-600);
+  --color-primary-50: var(--color-blue-50);
+  --color-primary-100: var(--color-blue-100);
+  --color-primary-200: var(--color-blue-200);
+  --color-primary-300: var(--color-blue-300);
+  --color-primary-400: var(--color-blue-400);
+  --color-primary-500: var(--color-blue-500);
+  --color-primary-600: var(--color-blue-600);
+  --color-primary-700: var(--color-blue-700);
+  --color-primary-800: var(--color-blue-800);
+  --color-primary-900: var(--color-blue-900);
+  --color-primary-950: var(--color-blue-950);
+}
+
+[data-theme-primary="red"] {
+  --color-primary: var(--color-red-600);
+  --color-primary-50: var(--color-red-50);
+  --color-primary-100: var(--color-red-100);
+  --color-primary-200: var(--color-red-200);
+  --color-primary-300: var(--color-red-300);
+  --color-primary-400: var(--color-red-400);
+  --color-primary-500: var(--color-red-500);
+  --color-primary-600: var(--color-red-600);
+  --color-primary-700: var(--color-red-700);
+  --color-primary-800: var(--color-red-800);
+  --color-primary-900: var(--color-red-900);
+  --color-primary-950: var(--color-red-950);
+}
+
+[data-theme-primary="green"] {
+  --color-primary: var(--color-green-600);
+  --color-primary-50: var(--color-green-50);
+  --color-primary-100: var(--color-green-100);
+  --color-primary-200: var(--color-green-200);
+  --color-primary-300: var(--color-green-300);
+  --color-primary-400: var(--color-green-400);
+  --color-primary-500: var(--color-green-500);
+  --color-primary-600: var(--color-green-600);
+  --color-primary-700: var(--color-green-700);
+  --color-primary-800: var(--color-green-800);
+  --color-primary-900: var(--color-green-900);
+  --color-primary-950: var(--color-green-950);
+}
+
+[data-theme-primary="amber"] {
+  --color-primary: var(--color-amber-600);
+  --color-primary-50: var(--color-amber-50);
+  --color-primary-100: var(--color-amber-100);
+  --color-primary-200: var(--color-amber-300);
+  --color-primary-300: var(--color-amber-300);
+  --color-primary-400: var(--color-amber-400);
+  --color-primary-500: var(--color-amber-500);
+  --color-primary-600: var(--color-amber-600);
+  --color-primary-700: var(--color-amber-700);
+  --color-primary-800: var(--color-amber-800);
+  --color-primary-900: var(--color-amber-900);
+  --color-primary-950: var(--color-amber-950);
+}
+
+[data-theme-primary="purple"] {
+  --color-primary: var(--color-purple-600);
+  --color-primary-50: var(--color-purple-50);
+  --color-primary-100: var(--color-purple-100);
+  --color-primary-200: var(--color-purple-200);
+  --color-primary-300: var(--color-purple-300);
+  --color-primary-400: var(--color-purple-400);
+  --color-primary-500: var(--color-purple-500);
+  --color-primary-600: var(--color-purple-600);
+  --color-primary-700: var(--color-purple-700);
+  --color-primary-800: var(--color-purple-800);
+  --color-primary-900: var(--color-purple-900);
+  --color-primary-950: var(--color-purple-950);
+}
+
+[data-theme-primary="rose"] {
+  --color-primary: var(--color-rose-600);
+  --color-primary-50: var(--color-rose-50);
+  --color-primary-100: var(--color-rose-100);
+  --color-primary-200: var(--color-rose-200);
+  --color-primary-300: var(--color-rose-300);
+  --color-primary-400: var(--color-rose-400);
+  --color-primary-500: var(--color-rose-500);
+  --color-primary-600: var(--color-rose-600);
+  --color-primary-700: var(--color-rose-700);
+  --color-primary-800: var(--color-rose-800);
+  --color-primary-900: var(--color-rose-900);
+  --color-primary-950: var(--color-rose-950);
+}
+
+[data-theme-primary="teal"] {
+  --color-primary: var(--color-teal-600);
+  --color-primary-50: var(--color-teal-50);
+  --color-primary-100: var(--color-teal-100);
+  --color-primary-200: var(--color-teal-200);
+  --color-primary-300: var(--color-teal-300);
+  --color-primary-400: var(--color-teal-400);
+  --color-primary-500: var(--color-teal-500);
+  --color-primary-600: var(--color-teal-600);
+  --color-primary-700: var(--color-teal-700);
+  --color-primary-800: var(--color-teal-800);
+  --color-primary-900: var(--color-teal-900);
+  --color-primary-950: var(--color-teal-950);
+}
+
+[data-theme-primary="cyan"] {
+  --color-primary: var(--color-cyan-600);
+  --color-primary-50: var(--color-cyan-50);
+  --color-primary-100: var(--color-cyan-100);
+  --color-primary-200: var(--color-cyan-200);
+  --color-primary-300: var(--color-cyan-300);
+  --color-primary-400: var(--color-cyan-400);
+  --color-primary-500: var(--color-cyan-500);
+  --color-primary-600: var(--color-cyan-600);
+  --color-primary-700: var(--color-cyan-700);
+  --color-primary-800: var(--color-cyan-800);
+  --color-primary-900: var(--color-cyan-900);
+  --color-primary-950: var(--color-cyan-950);
+}
+
+[data-theme-primary="fuchsia"] {
+  --color-primary: var(--color-fuchsia-600);
+  --color-primary-50: var(--color-fuchsia-50);
+  --color-primary-100: var(--color-fuchsia-100);
+  --color-primary-200: var(--color-fuchsia-200);
+  --color-primary-300: var(--color-fuchsia-300);
+  --color-primary-400: var(--color-fuchsia-400);
+  --color-primary-500: var(--color-fuchsia-500);
+  --color-primary-600: var(--color-fuchsia-600);
+  --color-primary-700: var(--color-fuchsia-700);
+  --color-primary-800: var(--color-fuchsia-800);
+  --color-primary-900: var(--color-fuchsia-900);
+  --color-primary-950: var(--color-fuchsia-950);
+}
+
+[data-theme-primary="pink"] {
+  --color-primary: var(--color-pink-600);
+  --color-primary-50: var(--color-pink-50);
+  --color-primary-100: var(--color-pink-100);
+  --color-primary-200: var(--color-pink-200);
+  --color-primary-300: var(--color-pink-300);
+  --color-primary-400: var(--color-pink-400);
+  --color-primary-500: var(--color-pink-500);
+  --color-primary-600: var(--color-pink-600);
+  --color-primary-700: var(--color-pink-700);
+  --color-primary-800: var(--color-pink-800);
+  --color-primary-900: var(--color-pink-900);
+  --color-primary-950: var(--color-pink-950);
+}
+
+[data-theme-primary="orange"] {
+  --color-primary: var(--color-orange-600);
+  --color-primary-50: var(--color-orange-50);
+  --color-primary-100: var(--color-orange-100);
+  --color-primary-200: var(--color-orange-200);
+  --color-primary-300: var(--color-orange-300);
+  --color-primary-400: var(--color-orange-400);
+  --color-primary-500: var(--color-orange-500);
+  --color-primary-600: var(--color-orange-600);
+  --color-primary-700: var(--color-orange-700);
+  --color-primary-800: var(--color-orange-800);
+  --color-primary-900: var(--color-orange-900);
+  --color-primary-950: var(--color-orange-950);
+}
+
+[data-theme-primary="yellow"] {
+  --color-primary: var(--color-yellow-600);
+  --color-primary-50: var(--color-yellow-50);
+  --color-primary-100: var(--color-yellow-100);
+  --color-primary-200: var(--color-yellow-200);
+  --color-primary-300: var(--color-yellow-300);
+  --color-primary-400: var(--color-yellow-400);
+  --color-primary-500: var(--color-yellow-500);
+  --color-primary-600: var(--color-yellow-600);
+  --color-primary-700: var(--color-yellow-700);
+  --color-primary-800: var(--color-yellow-800);
+  --color-primary-900: var(--color-yellow-900);
+  --color-primary-950: var(--color-yellow-950);
+}
+
+[data-theme-primary="lime"] {
+  --color-primary: var(--color-lime-600);
+  --color-primary-50: var(--color-lime-50);
+  --color-primary-100: var(--color-lime-100);
+  --color-primary-200: var(--color-lime-200);
+  --color-primary-300: var(--color-lime-300);
+  --color-primary-400: var(--color-lime-400);
+  --color-primary-500: var(--color-lime-500);
+  --color-primary-600: var(--color-lime-600);
+  --color-primary-700: var(--color-lime-700);
+  --color-primary-800: var(--color-lime-800);
+  --color-primary-900: var(--color-lime-900);
+  --color-primary-950: var(--color-lime-950);
+}
+
+[data-theme-primary="emerald"] {
+  --color-primary: var(--color-emerald-600);
+  --color-primary-50: var(--color-emerald-50);
+  --color-primary-100: var(--color-emerald-100);
+  --color-primary-200: var(--color-emerald-200);
+  --color-primary-300: var(--color-emerald-300);
+  --color-primary-400: var(--color-emerald-400);
+  --color-primary-500: var(--color-emerald-500);
+  --color-primary-600: var(--color-emerald-600);
+  --color-primary-700: var(--color-emerald-700);
+  --color-primary-800: var(--color-emerald-800);
+  --color-primary-900: var(--color-emerald-900);
+  --color-primary-950: var(--color-emerald-950);
+}
+
+[data-theme-primary="violet"] {
+  --color-primary: var(--color-violet-600);
+  --color-primary-50: var(--color-violet-50);
+  --color-primary-100: var(--color-violet-100);
+  --color-primary-200: var(--color-violet-200);
+  --color-primary-300: var(--color-violet-300);
+  --color-primary-400: var(--color-violet-400);
+  --color-primary-500: var(--color-violet-500);
+  --color-primary-600: var(--color-violet-600);
+  --color-primary-700: var(--color-violet-700);
+  --color-primary-800: var(--color-violet-800);
+  --color-primary-900: var(--color-violet-900);
+  --color-primary-950: var(--color-violet-950);
+}
+
+[data-theme-primary="zinc"] {
+  --color-primary: var(--color-zinc-600);
+  --color-primary-50: var(--color-zinc-50);
+  --color-primary-100: var(--color-zinc-100);
+  --color-primary-200: var(--color-zinc-200);
+  --color-primary-300: var(--color-zinc-300);
+  --color-primary-400: var(--color-zinc-400);
+  --color-primary-500: var(--color-zinc-500);
+  --color-primary-600: var(--color-zinc-600);
+  --color-primary-700: var(--color-zinc-700);
+  --color-primary-800: var(--color-zinc-800);
+  --color-primary-900: var(--color-zinc-900);
+  --color-primary-950: var(--color-zinc-950);
+}
+
+[data-theme-primary="stone"] {
+  --color-primary: var(--color-stone-600);
+  --color-primary-50: var(--color-stone-50);
+  --color-primary-100: var(--color-stone-100);
+  --color-primary-200: var(--color-stone-200);
+  --color-primary-300: var(--color-stone-300);
+  --color-primary-400: var(--color-stone-400);
+  --color-primary-500: var(--color-stone-500);
+  --color-primary-600: var(--color-stone-600);
+  --color-primary-700: var(--color-stone-700);
+  --color-primary-800: var(--color-stone-800);
+  --color-primary-900: var(--color-stone-900);
+  --color-primary-950: var(--color-stone-950);
+}
+
+[data-theme-primary="sky"] {
+  --color-primary: var(--color-sky-600);
+  --color-primary-50: var(--color-sky-50);
+  --color-primary-100: var(--color-sky-100);
+  --color-primary-200: var(--color-sky-200);
+  --color-primary-300: var(--color-sky-300);
+  --color-primary-400: var(--color-sky-400);
+  --color-primary-500: var(--color-sky-500);
+  --color-primary-600: var(--color-sky-600);
+  --color-primary-700: var(--color-sky-700);
+  --color-primary-800: var(--color-sky-800);
+  --color-primary-900: var(--color-sky-900);
+  --color-primary-950: var(--color-sky-950);
+}

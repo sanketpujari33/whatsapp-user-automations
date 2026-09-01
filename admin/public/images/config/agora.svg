@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="agoraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#009FFF"/>
+      <stop offset="100%" stop-color="#0052D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#agoraGrad)"/>
+  <rect x="28" y="42" width="46" height="44" rx="8" fill="#FFFFFF"/>
+  <path d="M 80 48 L 100 38 L 100 90 L 80 80 Z" fill="#FFFFFF"/>
+  <path d="M 44 32 A 16 16 0 0 1 60 32" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <path d="M 38 24 A 24 24 0 0 1 66 24" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.5"/>
+</svg>

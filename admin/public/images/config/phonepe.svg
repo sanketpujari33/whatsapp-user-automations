@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#5F259F"/>
+  <!-- PhonePe Devanagari / P motif -->
+  <path d="M 44 28 L 68 28 C 82 28 92 36 92 48 C 92 60 82 68 68 68 L 56 68 L 56 100 L 44 100 Z M 56 40 L 56 56 L 68 56 C 74 56 78 52 78 48 C 78 44 74 40 68 40 Z" fill="#FFFFFF"/>
+</svg>
